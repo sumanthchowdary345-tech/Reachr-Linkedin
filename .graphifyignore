@@ -1,0 +1,20 @@
+# graphify ignore — Reachr LinkedIn project
+# Only scan: posts/, plans/, CLAUDE.md
+
+# Heavy infrastructure folders — not useful in knowledge graph
+tools/
+skills/
+outreach/
+campaigns/
+dashboard/
+
+# Obsidian vault (created by graphify itself — don't re-scan)
+Reachr Marketing/
+graphify-out/
+
+# Raw images — already described in text files, skip vision extraction
+posts/raw-data/vaibhav-images/
+
+# Temp files
+.graphify_*.json
+.graphify_python

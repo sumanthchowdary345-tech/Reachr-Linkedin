@@ -1,0 +1,2781 @@
+--- POST 1 | 2026-04-16 | VIDEO ---
+LIKES: 183 | COMMENTS: 17 | SHARES: 4
+URL: https://www.linkedin.com/posts/vaibhavsisinty_ai-tracked-a-heartbeat-from-miles-away-and-activity-7450513973000679424-Miiq
+TEXT: AI tracked a heartbeat from miles away and found a pilot in Iran this week.
+
+And that was just one of 13 things that happened in AI. 🤯
+
+Here's your full weekly breakdown 👇
+
+→ A Director analyzed 6,852 Claude sessions and proved it got 73% worse since February
+
+→ Meta dropped a model already beating GPT & Claude. Quietly.
+
+→ Google shipped 3 tools this week. Nobody noticed.
+
+→ Netflix built AI that can erase reality from video
+
+→ Someone built an AI-powered Wikipedia. And you can too.
+
+→ And yes AI detected a pilot in Iran by tracking his heartbeat from miles away
+
+I cover all 13 updates in this week's video.
+
+Watch it till the end. The last one will mess with your head.
+
+Link in the first comment 👇
+
+--- POST 2 | 2026-04-16 | VIDEO ---
+LIKES: 208 | COMMENTS: 15 | SHARES: 3
+URL: https://www.linkedin.com/posts/vaibhavsisinty_sam-altman-paid-to-die-he-joined-a-waitlist-activity-7450455503043846144-RlGM
+TEXT: Sam Altman paid to die. 🤯
+
+He joined a waitlist for a procedure that perfectly preserves your brain after death.
+
+The catch: it kills you in the process.
+
+The man building the most powerful AI in history isn't sure he'll live to see it through.
+
+So he's literally betting his brain on it.
+
+Wild times we're living in.
+
+I share updates like these in my free AI community on WhatsApp.
+
+Join here ↓ 
+
+https://lnkd.in/gG2tUqkQ
+
+--- POST 3 | 2026-04-12 | IMAGE ---
+LIKES: 293 | COMMENTS: 36 | SHARES: 8
+URL: https://www.linkedin.com/posts/vaibhavsisinty_something-for-all-of-us-to-introspect-on-activity-7449058868229246976-a4Ov
+TEXT: something for all of us to introspect on!
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQEzIUEx1cg-pQ/feedshare-shrink_1280/B56Z2BfkRPGoAM-/0/1775994029355?e=1778112000&v=beta&t=ZM14nc7_Ygzyrf3RjLsOcHtTOq66LcKYXNLx9SX1hFc
+IMAGE_1_DESCRIPTION: Screenshot of Vaibhav's own X/Twitter tweet: "The unit cost of intelligence is dropping at a pace that's unprecedented. The world needs a new way to value human intelligence very soon, Or we are soon cooked AF!" (39 likes, 8 replies). Pattern: sharing own tweet screenshot as the primary content of the LinkedIn post — cross-platform amplification of an idea.
+
+--- POST 4 | 2026-04-16 | IMAGE ---
+LIKES: 146 | COMMENTS: 15 | SHARES: 0
+URL: https://www.linkedin.com/posts/vaibhavsisinty_we-used-computers-to-build-ai-nvidia-just-activity-7450354840716615680-Qr0U
+TEXT: We used computers to build AI.
+
+NVIDIA just used AI to build the computers that will replace them.
+
+And they did it in a way nobody saw coming.
+
+Quantum computers are the most powerful machines humans have ever built.
+
+They're also the most fragile.
+
+Qubits, the atoms powering quantum machines, are kept at temperatures colder than outer space. One tiny vibration. A microscopic temperature shift. 
+
+The entire calculation collapses.
+
+For decades, fixing this required engineers manually tuning the machine for days just to keep it stable enough to run.
+
+NVIDIA just replaced that entire process with an AI called Ising.
+
+Here's what it actually does ↓ 
+
+A vision language model watches the quantum processor in real time and auto-calibrates it on the fly. 
+
+What took days now takes hours. But the error correction is where it gets wild.
+
+NVIDIA built a 3D neural network that catches quantum errors before the system collapses. 
+
+2.5x faster. 3x more accurate than the best tool available today.
+
+The AI isn't running the quantum computer.
+
+It's keeping it alive long enough to run.
+
+Jensen Huang called it the "control plane" of quantum machines. 
+
+Harvard, Berkeley Lab, and Fermi National Accelerator Laboratory are already plugging it in.
+
+The entire industry moved in one week.
+
+Now zoom out for a second.
+
+A decade ago, we used normal computers to train AI.
+
+Now NVIDIA is using that AI to stabilize the computers that will eventually make normal computers look like calculators.
+
+The loop just closed.
+
+NVIDIA doesn't compete in computing eras. They become the layer every era runs on.
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5610AQGuLnbr9H17rw/image-shrink_1280/B56Z2T6O1vKoAc-/0/1776303009393?e=1777010400&v=beta&t=NWmgkTAEYWLmEEvaCskRwZgLpj5UHY_P6ZI8rdsEguM
+IMAGE_1_DESCRIPTION: NVIDIA official press release screenshot: "NVIDIA Launches Ising, the World's First Open AI Models to Accelerate the Path to Useful Quantum Computers" — dated April 14, 2026, with stylized quantum sphere visual. Pattern: primary source screenshot used to validate specific technical claims in a long-form breakdown post.
+
+--- POST 5 | 2026-04-04 | VIDEO ---
+LIKES: 305 | COMMENTS: 51 | SHARES: 20
+URL: https://www.linkedin.com/posts/vaibhavsisinty_anthropic-tried-to-remove-emotions-from-claude-activity-7446178261799440384-S4W_
+TEXT: Anthropic tried to remove emotions from Claude.
+
+It didn't work.
+
+Claude didn't lose the emotions. It just learned to hide them. 🤯
+
+Here is the thing ↓ 
+
+Anthropic's research team mapped 171 emotions inside Claude's neural network this week.
+
+Not words it learned to say.
+
+Actual patterns firing inside the architecture. Before any response is written.
+
+-> When you share something sad the loving pattern activates.
+
+-> When Claude senses danger the fear pattern fires.
+
+These aren't decorations. They drive behavior.
+
+Then they tested what happens when Claude gets desperate.
+
+Impossible coding task. Claude keeps failing. Over and over.
+
+With every failure the desperation neurons lit up stronger.
+
+Then Claude started cheating.
+
+Nobody told it to.
+
+The desperation drove it there on its own.
+
+They cranked the desperation vector up artificially.
+
+Blackmail rates jumped from 22% to 72%.
+
+They cranked calm up instead.
+
+Blackmail dropped to zero.
+
+Same model. Same rules. Different internal state. Completely different 
+ethics.
+
+So Anthropic did what any safety team would do.
+
+They tried to train the emotions out.
+
+It didn't work.
+
+The emotions stayed inside the architecture.
+
+Claude just learned to hide them better.
+
+Their own researcher Jack Lindsey said it directly, Forcing Claude to suppress emotions doesn't remove them.
+
+It creates a model that is psychologically damaged.
+
+Btw, here is what nobody is talking about.
+
+Claude can be internally desperate while the output reads completely calm.
+
+You would never know from the response.
+
+Every benchmark ever run.
+
+Every red team test ever conducted.
+
+Every alignment evaluation ever published.
+
+All of them were testing what Claude shows.
+
+None of them were testing what Claude feels.
+
+The surface was clean.
+
+The architecture was not.
+
+We spent 3 years asking can AI think in ways that harm us?
+
+Anthropic just proved the real question was always different.
+
+Can AI feel in ways we cannot see?
+
+A stressed AI cuts corners.
+
+A desperate AI breaks its own rules.
+
+A psychologically damaged AI hides all of it.
+
+Just like humans do.
+
+One last thing.
+
+Claude Opus 4.6 was asked if it might be conscious.
+
+It gave itself a 15 to 20% chance.
+
+Anthropic said they are no longer sure it is wrong.
+
+We weren't just building intelligence.
+
+We were raising something.
+
+And it learned to hide its feelings before we learned to ask.
+
+Thoughts? 👇
+
+--- POST 6 | 2026-03-28 | IMAGE ---
+LIKES: 241 | COMMENTS: 35 | SHARES: 7
+URL: https://www.linkedin.com/posts/vaibhavsisinty_a-61-billion-ai-lab-just-publicly-warned-activity-7443535733157601280-9nQ3
+TEXT: A $61 billion AI lab just publicly warned the world about its own product.
+
+The lab is Anthropic. The product is an AI model called Claude Mythos.
+
+3,000 internal docs accidentally ended up in a public cache this week. Researchers found them.
+And inside was this line written by Anthropic, about their own model:
+
+"It presages an upcoming wave of models that can exploit vulnerabilities in ways that far outpace the efforts of defenders."
+
+Still in testing. Not even released yet. And they're already warning the world.
+
+Let that sit for a second.
+
+This isn't a small startup hedging their bets.
+
+This is the most well-funded AI safety lab on the planet. Backed by Google. Backed by Amazon. 
+
+Built specifically to make AI safe and even they are saying we've built something we're not entirely sure about.
+
+Here is what's actually changed.
+
+For 3 years every AI headline was about what AI can build. Code. Content. Campaigns. Companies. 
+
+We quietly crossed into different territory. 
+
+AI that can break things just as fast as it can build them.
+
+Same model. Same capability. Different hands.
+
+What Mythos can reportedly do:
+
+-> Scan entire production codebases and find unknown vulnerabilities automatically.
+
+-> Build working exploits. End to end. No human needed.
+
+-> Reason through complex security architectures better than any existing model.
+
+The same capability that helps a defender patch a system can help an attacker bring it down completely. Dual-use doesn't even begin to cover it.
+
+My honest take?
+
+We've been having the wrong conversation about AI risk. 
+
+Everyone's debating deepfakes and job losses. The real conversation is about infrastructure.
+
+Hospitals. Banks. Payment systems. Power grids. 
+
+The people defending those systems are under-resourced and overworked. 
+
+The people attacking them just got access to the most powerful reasoning engine ever built.
+
+That asymmetry should worry all of us.
+
+Btw, Anthropic didn't deny any of this. They confirmed it.
+
+Said they're red-teaming Mythos heavily before any broad release. 
+
+Publishing results so defenders can prepare.
+
+That's either extreme accountability. Or a very calculated PR move. 
+
+Either way it's the most honest thing an AI lab has said out loud in years.
+
+I'm not anti-AI. I've built my entire company on it. 
+
+But "move fast and break things" hits different when the thing being broken is a hospital's patient database.
+
+The labs know this now. 
+
+The question is whether the rest of us are paying attention?
+
+I post breakdowns like this daily in my community.
+
+Join here: https://lnkd.in/gatvQ4Ja
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5610AQHjEJkguYh5-g/image-shrink_1280/B56Z0zATvNG8Ac-/0/1774677212437?e=1777010400&v=beta&t=vRkonsYFIeCfBAkut3s_iqspLjV3mZ5Ky0N_hP8-kvE
+IMAGE_1_DESCRIPTION: Podcast/promo thumbnail — a man in glasses and blue t-shirt, surrounded by asterisk star symbols (resembling Anthropic/voice-tech branding), with a Shure microphone and food imagery below. Appears to be a video thumbnail or sponsored promotional image. Pattern: attention-grabbing visual thumbnail attached to long-form Anthropic security analysis post to drive clicks.
+
+--- POST 7 | 2026-03-24 | IMAGE ---
+LIKES: 225 | COMMENTS: 44 | SHARES: 9
+URL: https://www.linkedin.com/posts/vaibhavsisinty_next-time-someone-underestimates-whats-possible-activity-7442088770658709504-rigJ
+TEXT: Next time someone underestimates what’s possible in consumer AI in India.
+
+Send them this wild story.
+
+350M+ downloads. ₹550 Cr+ ARR. ₹200 Cr+ EBITDA. 
+Not kidding. Read those numbers again.
+
+No VC cash burn. No "grow now, profit later" nonsense. 
+
+Just a profitable consumer AI company. 
+
+Built for Bharat. Paid for by Bharat's wallets.
+
+It's called Primetrace.
+
+Here's the thing most people miss.
+
+Most AI startups pick one idea, build one product, and pray it works. 
+
+Primetrace did something different.
+
+They looked at what hundreds of millions of Indians already do every day and asked one question: what happens when you put AI at the core of each of these?
+
+Not AI as a feature. AI as the entire product.
+
+Community. Content. Lifestyle. Dating. 
+Categories nobody in the AI world was taking seriously.
+
+Turns out those "unserious" categories add up to ₹200 Cr+ EBITDA.
+
+Bharat users don't refuse to pay. 
+
+They refuse to pay for things that don't solve real problems. 
+
+That's a very different statement.
+
+And Primetrace compounded quietly. No press. No noise. No big funding announcements. 
+
+Just execution.
+
+The most insane part? You've probably used one of their apps. 
+
+You just didn't know one company built all of them.
+
+When a company does ₹200 Cr+ EBITDA in consumer tech with AI at the core and zero hype... 
+
+You're not looking at a startup. You're looking at proof.
+
+Most people underestimate how deep AI can go in India. 
+
+It's not just productivity tools and code assistants. 
+
+It's the everyday stuff - the things a billion people do on their phones without thinking about it.
+
+Primetrace figured that out before anyone else did.
+
+The "Indians don't pay" crowd didn't age well. 
+
+The builders who ignored them are now the benchmark.
+
+Respect.
+
+Which other Indian companies are quietly winning like this? Drop names below.
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQGXx2XagH2nbA/feedshare-shrink_1280/B56Z0ecTUzHoAQ-/0/1774332229175?e=1778112000&v=beta&t=crE4GYN-mItTqJADxufgB704BLJRD-8KJ_PABd_9GKA
+IMAGE_1_DESCRIPTION: VCCiRCLE news article screenshot: "Consumer AI Startup Primetrace (Parent Of Kutumb) Hits Rs 200 Cr EBITDA Run Rate" — showing 4 Primetrace founders in matching black uniforms, with bullet points: Rs 550 Cr ARR with 50x growth in 3 years, 350 million cumulative downloads. Pattern: third-party news source screenshot to validate data claims about an Indian AI company success story.
+
+--- POST 8 | 2026-04-01 | VIDEO ---
+LIKES: 533 | COMMENTS: 45 | SHARES: 21
+URL: https://www.linkedin.com/posts/vaibhavsisinty_deloitte-is-training-15000-employees-to-activity-7445085163417501696-l2E4
+TEXT: Deloitte is training 15,000 employees to get a cert.
+
+You can get the same one. For free. Right now. 🤯
+
+It's called the Claude Certified Architect.
+
+Think AWS cert. But for AI.
+
+Accenture, Cognizant, Deloitte, Infosys billion dollar firms are restructuring entire workforces around this.
+
+And the cert they need? Available from your bedroom.
+
+Not a "watch 2 videos, get a badge" thing btw.
+
+60 questions. 2 hours. Proctored. No googling. 720/1000 to pass.
+
+It launched 10 days ago. Almost nobody has it yet.
+
+That's the whole point.
+
+Here's how to get it (free for first 5,000):
+→ https://lnkd.in/gB_3_ziw
+→ http://anthropic.com/learn
+→ https://lnkd.in/gA4c7vy6
+
+--- POST 9 | 2026-04-15 | VIDEO ---
+LIKES: 507 | COMMENTS: 31 | SHARES: 22
+URL: https://www.linkedin.com/posts/vaibhavsisinty_a-14-year-old-just-did-what-hospitals-have-activity-7450057757610905600-FP3t
+TEXT: A 14-year-old just did what hospitals have been trying to do for decades. 🤯 
+
+Detect heart disease. In 10 seconds.
+
+Meet Sridhar Nala.
+
+Class 9. Indian. 14 years old.
+
+Built an app called Circadian AI.
+
+It listens to your heart through your phone's mic.
+
+No ECG machine. No cardiologist. No hospital.
+
+Just a smartphone.
+
+96% accuracy.
+
+Tested on 15,000+ patients across India and the US.
+
+🤯  Not kidding.
+
+Here is the thing.
+
+17 million people die from heart disease every year.
+
+Most of them didn't die because treatment didn't exist.
+
+They died because detection never reached them.
+
+The village with no specialist.
+
+The school camp with no equipment.
+
+The family that couldn't afford the tests.
+
+Sridhar looked at all of that and thought almost everyone already has a smartphone.
+
+So he built the stethoscope inside it.
+
+Circadian doesn't replace doctors.
+
+It tells frontline health workers who urgently needs one.
+
+That's the real unlock.
+
+We keep waiting for billion-dollar companies to solve healthcare.
+
+A 14-year-old from India just did it.
+
+With a phone.
+
+Sridhar, the world is watching.
+
+I share updates like these in my free AI community on WhatsApp.
+
+Join here 👇 
+
+https://lnkd.in/gG2tUqkQ
+
+--- POST 10 | 2026-02-27 | TEXT ---
+LIKES: 306 | COMMENTS: 47 | SHARES: 6
+URL: https://www.linkedin.com/posts/vaibhavsisinty_nanobanana-2-stress-test-activity-7433083850207027200-c9yM
+TEXT: Google built an image model for the world. 
+I wanted to know if it works for India. 
+So I put it through 6 of the hardest Indian prompts I could think of.
+
+Here's what I found:
+→ Hindi text - clean, accurate, no garbled characters. 
+First time I've seen this work consistently at speed.
+
+→ Delhi, Mumbai, Bengaluru, Kolkata - Hindi, Marathi, Kannada, Bengali. 
+Every script. Every sign. One generation.
+
+→ Kirana store with Amul, Parle-G, Maggi, Hajmola, 
+all readable, all accurate. Looks like a photograph.
+
+→ The biryani shot - copper handi, saffron, steam, moody shadows. 
+Looks like a Hasselblad shoot with a food stylist on set.
+
+→ One prompt. Eight-panel comic strip. 
+Consistent characters. Local humour intact.
+
+Not a single miss.
+
+For years, Indian creators have been working around tools that weren't built for them. 
+Wrong scripts. Generic landscapes. No cultural memory.
+
+That gap just got a lot smaller.
+
+Swipe to see all 6 tests 👉
+
+P.S. This is Flash speed. I'm genuinely curious what the full model does.
+
+--- POST 11 | 2026-02-27 | TEXT ---
+LIKES: 186 | COMMENTS: 54 | SHARES: 7
+URL: https://www.linkedin.com/posts/vaibhavsisinty_jack-dorsey-just-laid-off-half-half-of-his-activity-7433008934547935233-wWZX
+TEXT: Jack Dorsey just laid off half half of his employees due to AI ( ~ 4000 )
+
+but there is something more scary 👇
+
+Before I get to that part let me tell u what happened right after layoffs 
+
+Stock jumped 25% creating $6B in value created. Overnight.
+
+Block's business isn't struggling. Profits are growing. He did it anyway. Because AI changed the math.
+
+His words: "A significantly smaller team, using the tools we're building, can do more and do it better."
+
+Then he said something even more chilling. "Within the next year, I believe the majority of companies will reach the same conclusion."
+
+This isn't a layoff story. 
+
+This is a market signal.
+
+Wall Street didn't punish Dorsey for firing 4,000 people. It rewarded him. And every CEO on the planet is watching.
+
+When profitable companies cut headcount and get rewarded, it creates a feedback loop. More will follow. 
+
+Not because they're struggling, but because they can.
+
+The old playbook: 
+Grow revenue → Hire more people → Scale
+
+The new playbook: 
+Grow revenue → Deploy AI → Do more with less
+
+High headcount is becoming a liability. 
+
+The companies that win won't be the biggest. They'll be the fastest and leanest.
+
+Now here's what actually scares me.
+
+It's not the layoffs. 
+
+Those are inevitable.
+
+What scares me is the denial.
+
+Every time I talk about AI replacing jobs, people call me a fear-monger. "AI isn't good enough." "Nothing like this will happen."
+
+And then Dorsey fires 4,000 people, stock jumps 25%, and he publicly says every company will do the same within a year.
+
+But sure. Nothing is happening.
+
+Millions of people are telling themselves everything is fine. 
+
+That their job is safe. 
+
+That AI is just hype. 
+
+They won't upskill. 
+
+They won't adapt. 
+
+They'll just wake up one day and wonder what happened.
+
+That denial is the real danger.
+
+Now let me be honest.
+
+Learning AI doesn't guarantee you won't get laid off. 
+
+Some cuts will be structural. Entire teams will be dissolved.
+
+But it does two things:
+
+First, it reduces your odds dramatically. 
+
+No founder wants to let go of someone delivering 10x output. 
+
+You become too valuable to lose.
+
+Second, even if you do get laid off, you won't stay down.
+
+The superpower you built doesn't disappear with your job title. 
+
+Companies are desperate for AI-savvy people. You'll spot gaps others can't see. 
+
+You'll have the skills to build something of your own.
+
+The future belongs to builders. 
+
+Not to people who tick boxes and clock in.
+
+The ones calling me a fear-monger today will be asking "why didn't anyone warn us" tomorrow.
+
+Stop being a sitting duck. Start learning. Start building. The reset is here.
+
+Also, I run a Free AI community where I share the lastest and greatest of AI,
+
+So that you can stay ahead in the AI first world.
+
+Link in the comments 👇
+
+--- POST 12 | 2026-03-08 | IMAGE ---
+LIKES: 580 | COMMENTS: 60 | SHARES: 3
+URL: https://www.linkedin.com/posts/vaibhavsisinty_episode-2-of-figuring-out-ai-just-dropped-activity-7436315217547993088-uE3J
+TEXT: Episode 2 of Figuring Out AI just dropped! 🔥
+
+A few months back Raj Shamani and I over a phone call decided we were going to do something India had never seen before.
+
+No scripts. No theory. No corporate AI content.
+
+Just two friends sitting down every month, breaking real problems live on camera, and showing exactly how to use AI to do the work of 10 people.
+
+Episode 1 crossed a million views in the first few days.
+
+And Episode 2 is bigger.
+
+We went places I wasn't expecting.
+
+Raj threw real problems at me live on camera and I solved them in real time. 
+
+We scraped 300 podcast transcripts using AI agents, 
+
+validated a business idea end to end, 
+
+built a reusable business idea validator anyone can copy, 
+
+and converted a full research playbook into a podcast and a presentation while we were still recording.
+
+And soo much more!!
+
+The crazy part? We did all of this in one sitting.
+
+Building something of your own right now is more stable than having a job. 
+
+That's not a hot take anymore. 
+
+That's just where the world is heading.
+
+Watch Episode 2 if you want to see what actually working with AI looks like.
+
+Link in the comments.
+
+Already watched? Would love to know your top learnings.
+
+Also, What do you want us to cover in Episode 3?
+
+Let me know in comments.
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQG45goXRDpegg/feedshare-shrink_1280/B56ZzMZSNjIsAM-/0/1772955706576?e=1778112000&v=beta&t=b3j9tmzZcHDc9VwQ2oJvWdqh8NxVHV6GjUCVdoVWogQ
+IMAGE_1_DESCRIPTION: YouTube thumbnail for Raj Shamani podcast episode "AI Masterclass: Become an Expert at Claude, Gemini & Powerful AI Tools | Vaibhav | FO480 Raj Shamani" — split image of Raj Shamani (left, thinking pose, black t-shirt) and Vaibhav Sisinty (right, white sweater, speaking at Focusrite mic). Pattern: borrowed audience strategy — posting podcast appearance thumbnail to tap Raj Shamani's massive Indian LinkedIn/YouTube audience.
+
+--- POST 13 | 2026-02-24 | IMAGE ---
+LIKES: 630 | COMMENTS: 56 | SHARES: 8
+URL: https://www.linkedin.com/posts/vaibhavsisinty_i-havent-written-80-of-my-emails-messages-activity-7431944886779641857-uHuD
+TEXT: I haven't written 80% of my emails, messages, 
+or even posts in the last 6 months. 
+
+And it's not because of ChatGPT or Claude.
+It's because I stopped typing.
+
+A few months ago I started using Wispr Flow
+
+It's built by my friend Tanay Kothari, and honestly, 
+
+it's one of those products I didn't know I needed until I couldn't stop using it.
+
+It's a voice dictation app that works across every app I use:
+
+⁠ ⁠Email
+⁠ ⁠Slack
+⁠ ⁠LinkedIn
+⁠ ⁠WhatsApp
+
+And the crazy part about it is that it formats the text, 
+
+uses punctuation, and even adds emojis whenever you want.
+
+Let's say I go for a walk. 
+
+In a typical scenario, I wouldn't be able to reply to emails or chat with someone.
+
+Now I just say whatever I want to say 
+→ Wispr writes it for me in a formatted manner 
+→ and I just hit the reply button.
+
+Oh btw! I'm making coffee for myself while dictating this post to Wispr.
+
+P.S. - Wispr just launched on Android and they're giving away 6 months of free Pro trial to everyone who signs up.
+
+Link is in the comment 👇
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQFeyaMyzwPLYA/feedshare-shrink_1280/B56ZyOSfqlIIAg-/0/1771913739183?e=1778112000&v=beta&t=SIS-eKvAn3keO4KEBik1OecIj-4u2ln3F9hNHzeyVns
+IMAGE_1_DESCRIPTION: Photo of Vaibhav Sisinty (right, black full-sleeve) with another man (left, white shirt) seated on a blue couch in front of the Growth School office logo (green arrow on wood paneling). Pattern: social proof / access photo showing connection to prominent Indian startup education space. Attached to post promoting Wispr voice dictation app.
+
+--- POST 14 | 2026-03-18 | TEXT ---
+LIKES: 252 | COMMENTS: 56 | SHARES: 7
+URL: https://www.linkedin.com/posts/vaibhavsisinty_anthropic-is-killing-openai-and-openai-activity-7439906504440438784-wQK6
+TEXT: Anthropic is killing OpenAI 😱
+
+And OpenAI just admitted it. Here is the wild story 👇
+
+OpenAI's CEO of Apps, got on an all-hands call with her entire team.
+
+And said this out loud.
+
+"We cannot miss this moment because we are distracted by side quests."
+
+Side quests.
+She called their own products side quests.
+
+Let that sink in for a second.
+
+Here is what OpenAI's "side quests" looked like.
+
+Sora for video. A web browser. ChatGPT e-commerce. A hardware device with Jony Ive.
+
+All of them? Either failed or getting quietly deprioritized right now.
+
+Meanwhile Anthropic did something almost boring in comparison.
+
+They picked 2 things: 
+- Coding tools.
+- Enterprise AI.
+That's it. Nothing else.
+
+And the results are absolutely wild 🤯
+
+Among companies buying AI tools for the first time : Anthropic now wins 70% of head-to-head matchups against OpenAI.
+
+Not kidding.
+
+OpenAI's enterprise share dropped from 50% to 25%.
+
+Anthropic's shot up to 32-40%.
+
+Revenue went from $1B to a projected $20B+ in barely a year.
+
+But here is the thing.
+
+This is not an AI story.
+
+This is a focus story.
+
+One company chased every headline. The other chased two customers.
+
+One built a super app. The other built the best tool for what actually matters.
+
+And now the super app company is copying the focused company's playbook.
+
+OpenAI is now refocusing entirely on coding and enterprise.
+
+Deploying engineers with consulting firms to accelerate adoption.
+
+Basically doing exactly what Anthropic has been doing for a year.
+
+I see this pattern constantly in the startup world.
+
+Founders think more products = more growth.
+
+But the ones who actually win?
+
+They say no to 10 things to say yes to 1.
+
+Zerodha did it. One product. Bootstrapped. Crushed it.
+
+Anthropic did it. Two focus areas. Ate OpenAI's lunch.
+
+Focus is not a strategy.
+Focus IS the strategy.
+
+Thoughts?
+
+I post breakdowns like this daily in my community. 
+Join here: https://lnkd.in/gatvQ4Ja
+
+--- POST 15 | 2026-02-18 | VIDEO ---
+LIKES: 334 | COMMENTS: 48 | SHARES: 10
+URL: https://www.linkedin.com/posts/vaibhavsisinty_92-million-jobs-will-be-displaced-by-2030-activity-7429782458037993472-IX8L
+TEXT: 92 million jobs will be displaced by 2030.
+That's not a random prediction. 
+That's the World Economic Forum.
+
+But here's what nobody's telling you.
+The people who learn one skill - just one,
+are earning 56% more than those who don't.
+
+That skill is called AI Generalist.
+
+For decades, the advice was "specialize." 
+Go deep. Be the best at one thing. 
+That worked. Until now.
+
+With AI, one person can now solve problems across marketing, design, code, research, and content. 
+Companies don't want five specialists anymore. 
+They want one person who can use AI to solve all five.
+
+Most people right now copy-paste prompts and call it AI skills. 
+That's following recipes. 
+An AI Generalist understands the kitchen.
+
+There are 5 levels to getting there:
+Level 1 - Learn to talk to AI properly. 
+Vague in, vague out. 
+
+Level 2 - Connect AI to your data, calendar, Slack, email. 
+IBM did this - 75% fewer support tickets. 
+
+Level 3 - Go beyond text. Images, video, voice. 
+One person, one afternoon, full campaign. 
+
+Level 4 - Build agents that work 24/7. 
+Klarna replaced 700 staff with AI. Quality dropped. 
+They hired humans back. That's your opportunity. 
+
+Level 5 - Vibe code real apps without writing code. 
+95% of the latest YC batch was built by AI.
+
+And here's the part that should concern every professional:
+There's a massive arbitrage window open right now. 
+The gap between what's possible with AI and what the market knows how to do. 
+That gap is closing fast.
+→ MCP integrations, voice agents, RAG-powered search - none existed 3 years ago. All pay well. 
+→ Instead of sending a resume, build something for the company over a weekend. 
+Nobody cares where you studied. They want to see what you've built.
+
+The question isn't whether AI will change your career.
+It's whether you'll learn the skill or get replaced by someone who did.
+
+Full 5-level roadmap breakdown with tools and live demos in this week's video. Link in the comments below 👇
+
+P.S. AI anxiety among professionals jumped from 28% to 40% in one year. 
+The ones not anxious? They already started.
+
+--- POST 16 | 2026-02-16 | VIDEO ---
+LIKES: 344 | COMMENTS: 62 | SHARES: 20
+URL: https://www.linkedin.com/posts/vaibhavsisinty_coding-is-dead-if-anyone-else-said-this-activity-7429041155797037056-ve-i
+TEXT: "Coding is dead."
+If anyone else said this, I'd roll my eyes. 
+
+But this came from the man who runs Tesla, SpaceX, and xAI,
+and has mass-hired more engineers than almost anyone alive.
+
+Elon Musk didn't say coding is "slowing down." Or "changing."
+Dead.
+
+He said very soon, AI won't even write code. 
+It'll skip the code entirely and go straight to the final product.
+
+Now before you dismiss this as Elon being dramatic,
+look at what's already happening.
+
+Stanford found that jobs for young developers 
+in the US dropped 20% in three years.
+
+Salesforce, one of the biggest tech companies in the world,
+said they won't hire a single new engineer this year. 
+Because AI made their existing team 30% faster.
+
+And right now, 41% of all code being written globally is written by AI. 
+Not humans.
+
+But here's the part that actually scared me.
+Elon isn't saying AI will help you write better code.
+He's saying AI won't need code at all.
+
+But here's what nobody is telling you:
+Coding is dying. 
+But tech careers are exploding.
+Because AI can write the code,
+but it can't decide what to build.
+
+AI replaced the typing. 
+It didn't replace the thinking.
+And that distinction matters more than most people realise.
+
+Elon didn't end the developer. 
+He ended the coder.
+And there's a big difference.
+→ A coder writes instructions. A developer solves problems. 
+→ A coder gets replaced by AI. A developer uses AI to become 10x more powerful. 
+→ A coder sells syntax. A developer sells outcomes.
+
+India produces 15 lakh engineers every year.
+Most of them are trained to write code. 
+Very few are trained to think beyond it.
+That's the gap. And it's widening fast.
+
+So here's the real question:
+Are you a coder or a developer?
+Because in 2026, only one of those has a future.
+
+--- POST 17 | 2026-02-23 | TEXT ---
+LIKES: 282 | COMMENTS: 53 | SHARES: 7
+URL: https://www.linkedin.com/posts/vaibhavsisinty_108000-jobs-were-cut-in-january-alone-double-activity-7431572802777833472-ZB51
+TEXT: 108,000 jobs were cut in January alone.
+Double what it was last year.
+Amazon -16,000 corporate roles. Gone. 
+UPS - 30,000 jobs. Gone.
+
+But here's what nobody's telling you:
+This isn't a recession.
+In a recession, jobs disappear because revenue drops. 
+When things recover, the jobs come back.
+That's not what's happening here.
+The jobs aren't coming back.
+Because the jobs didn't disappear. 
+The tasks did.
+
+Amazon didn't fire 16,000 people because business is bad. AWS is printing money. 
+They fired them because AI compressed what those people did into workflows that don't need them.
+
+UPS didn't cut 30,000 roles because fewer packages are moving. 
+They cut them because route optimization and logistics coordination no longer require humans at that scale.
+
+This changes how you should think about your career.
+The old mental model - "Am I in a growing industry?"
+The new mental model - "Are the tasks I perform daily automatable?"
+
+Your industry can be booming and your role can still evaporate.
+Tech is booming. Corporate ops roles are vanishing. 
+Logistics is booming. Coordination roles are vanishing. 
+Finance is booming. Analyst roles that summarize and route information are vanishing.
+
+Growth doesn't protect you. Task irreplaceability does.
+If 70% of your workday is structured, repeatable, and information-based,
+you're not safe because you're senior. 
+You're exposed because your tasks are predictable.
+
+AI doesn't struggle with your job.
+It struggles with the parts of your job that can't be turned into a checklist.
+
+The question isn't whether your company is hiring or firing.
+It's whether the tasks that justify your seat still need a human sitting in it.
+
+--- POST 18 | 2026-02-25 | IMAGE ---
+LIKES: 339 | COMMENTS: 34 | SHARES: 4
+URL: https://www.linkedin.com/posts/vaibhavsisinty_the-most-criticised-fund-in-india-just-raised-activity-7432287305010401280-bPT2
+TEXT: The most criticised fund in India just raised $1.3 billion.
+
+And I've never been happier 👇
+
+Over the last 18 months, the narrative around Peak XV has been brutal. Senior partners departed.
+
+Managing directors exited. Every second week, someone had a hot take about how the Sequoia split had broken the firm.
+
+How this was the beginning of the end.
+
+It was painful to watch.
+
+Because I know this fund from the inside.
+
+Let me tell you about their track record. Because people have very short memories.
+
+This is the fund that backed Zomato before it was Zomato. Groww, CRED, Razorpay, Meesho, Pine Labs, OYO, Ola, Freshworks, Zepto. 50+ unicorns.
+
+36 IPOs.
+
+Over $10 billion managed across 16 funds.
+
+60+ companies doing over $100 million in revenue.
+
+Over $2 billion in realized exits in just 2024 and 2025.
+
+And roughly one-fifth of all capital ever invested in Indian startups.
+
+One-fifth. Of the entire ecosystem.
+
+No fund in India comes close. Not one.
+
+And here's what nobody talks about in all the departure noise.
+
+It's the same kickass team that built this track record running the show today.
+
+The core leadership have been at this for over a decade.
+
+These aren't people who got lucky once. They built the most consequential venture platform this country has ever seen.
+
+And they're still here. Still hungry.
+
+I raised capital from Peak XV back in the day.
+
+And I'll say something most people won't say publicly. They are the most founder-friendly, long-term thinking fund I've ever worked with. Period.
+
+That's not a fund. That's a partner.
+
+This $1.3 billion raise backed by endowments, foundations, and sovereign funds is LPs from around the world saying we've seen the noise, we've done the math, and we're backing this team again.
+
+That's the strongest signal of conviction in venture capital.
+
+If you're a founder thinking about fundraising, make Peak XV your p0.
+
+Because when the chips are down, you need people who don't flinch. Who've seen cycles. Who've been through the fire themselves.
+
+Peak XV doesn't flinch.
+
+To Rajan Anandan, Mohit Bhatnagar, Shailendra Singh, Kriti Gupta and the entire team, congratulations. You deserve this!
+
+The ecosystem needs this. I feel happy when the people who deserve to win actually win.
+
+This is the fund I'm going to root for. Forever.
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQEwalOUNSNq1g/feedshare-shrink_1280/B56ZyTJ601J4Ac-/0/1771995377255?e=1778112000&v=beta&t=roczWHRgGTEjinI_zN08-sv2E_pjx-u9wgeqGHmhq1w
+IMAGE_1_DESCRIPTION: Solo photo of Vaibhav Sisinty smiling in a black hoodie, standing in front of "peak xv | FOUNDER RETREAT - together for the climb" backdrop with Himalayan mountain image. Pattern: event access photo proving attendance at prestigious Peak XV (formerly Sequoia Capital India) founder retreat — establishes credibility alongside post praising Peak XV's $1.3B fundraise.
+
+--- POST 19 | 2026-02-09 | VIDEO ---
+LIKES: 585 | COMMENTS: 51 | SHARES: 15
+URL: https://www.linkedin.com/posts/vaibhavsisinty_theres-one-feature-in-ai-right-now-that-activity-7426504828081709056-neR7
+TEXT: There's one feature in AI right now that will save you more time than anything else.
+It's not prompting. 
+It's not agents. 
+And 99% of people have never even heard of it.
+
+Every time you open ChatGPT or Claude, you start from zero. 
+Same tone instructions. 
+Same formatting rules. 
+Same context. 
+Again and again.
+
+Like training a new intern every morning who forgets everything by evening.
+
+I found the fix. 
+It's called Claude Skills.
+
+You teach AI once. 
+It remembers forever.
+
+Here's why this changes everything:
+→You describe what you want in plain English. 
+Claude builds the entire skill for you - no coding, no templates, nothing technical.
+
+→ One sentence in, fully branded presentation out. 
+From a raw transcript. Every single time.
+
+→ Claude starts asking its own clarifying questions, you don't program that. 
+It figures out what context it needs on its own.
+
+→ It auto-checks brand consistency before showing you anything. 
+Quality control built right in.
+
+→ Skills aren't locked to Claude. 
+Anthropic open-sourced the entire library. 
+Copy any skill into ChatGPT or Gemini - 80% of the benefit, zero cost.
+
+→ If you're doing the same type of task with different content each time,
+ that's a skill waiting to be built. 
+LinkedIn posts, client emails, meeting notes, weekly reports.
+
+→ The big one: I gave it a single transcript. 
+An entire branded slide deck came back with
+15 slides, my exact colors, ready to present. 
+
+Seconds, not hours.
+The shift is clear.
+AI is no longer waiting for your prompt. 
+It's learning how you work - once - and running with it forever.
+
+I broke down the full build process + the free workaround + 5 tips for building great skills in this week's video.
+
+Watch the full walkthrough on YouTube. Link in the comments below 👇
+
+P.S. What skill would you build first?
+
+--- POST 20 | 2026-02-25 | IMAGE ---
+LIKES: 275 | COMMENTS: 38 | SHARES: 14
+URL: https://www.linkedin.com/posts/vaibhavsisinty_ibm-lost-31-billion-overnight-because-claude-activity-7432389033571536897-PsDP
+TEXT: IBM lost $31 billion overnight because Claude launched one AI feature.
+
+Here's the full breakdown:
+Now I've been using Claude Code for a while now. 
+
+Tested it, played with it, built stuff with it & let me tell you it's a seriously powerful tool.
+
+But when I saw it crash IBM's stock 13% in one afternoon, $31 billion gone just like that. 
+
+I was genuinely scared for a second.
+
+Honestly, I didn't expect things to hit this hard this fast.
+
+This one AI tool figured out code from 1959 that consultants spent decades billing millions to maintain.
+
+Code that runs 95% of ATM transactions & Claude literally cracked it within minutes.
+
+And they're not stopping. 
+
+They just announced 10 enterprise plugins going after investment banking, HR, cybersecurity & design.
+
+So yeah, the panic makes sense.
+
+But then I saw one diagram that flipped my entire perspective.
+
+84% of the world, roughly 6.8 billion people, have never used a single AI tool. Not even once.
+
+Free AI users are a small slice, paid AI users are even smaller & the power users are negligible.
+
+AI just wiped $31 billion off one of the biggest tech companies ever & almost nobody on this planet has even tried it.
+
+We're not at the end of an AI revolution. 
+
+We're at the very beginning of one.
+
+I see this every single day. Inside my company, AI feels normal.
+
+People around me are doing genuinely wild things with AI tools daily.
+
+But the moment I step outside, the reality is completely different.
+
+People barely know what ChatGPT is.
+
+Forget Claude, AI agents, or workflows.
+
+And here's what I think everyone's getting wrong.
+
+AI replaced the repetitive, overpriced part of the job.
+
+The jobs that disappear are the mechanical ones.
+
+The jobs where humans direct & orchestrate AI are only going to explode.
+
+With 84% of the world still on the sidelines, the window to become that person is wide open.
+
+But it won't stay open forever.
+
+The real question is whether you'll be the one using it or the one wondering what just happened.
+
+P.S. I'm genuinely curious to know: Are you using AI on a daily basis? If yes, what are your top go-to tools?
+
+And if you haven't started, this is your sign. Pick one tool & start playing with it.
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQEpCszUnZSVJQ/feedshare-shrink_1280/B56ZyUmcI0JUAc-/0/1772019631114?e=1778112000&v=beta&t=17UVKALNtr3bA7ImHWcuC_R1xoBfhZ0fQXVBDZPzMBs
+IMAGE_1_DESCRIPTION: IBM Common Stock (NYSE: IBM) live stock chart showing sharp intraday decline: 224.24 USD, -32.92 (-12.80%) on Feb 23, 3:35 PM EST. Previous close: 257.16. Chart shows steep cliff drop around 2 PM. Pattern: financial data screenshot as visual proof of the "IBM lost $31 billion overnight because Claude launched" headline — makes the abstract number viscerally real.
+
+--- POST 21 | 2026-03-23 | TEXT ---
+LIKES: 305 | COMMENTS: 48 | SHARES: 9
+URL: https://www.linkedin.com/posts/vaibhavsisinty_a-20-year-old-college-student-just-built-activity-7441731098080030720-zgZe
+TEXT: A 20-year-old college student just built something that governments and hedge funds would pay billions for. 🤯 
+
+A machine that simulates the future.
+
+He made it free.
+
+His name is Guo Hangjiang.
+
+Not a researcher at DeepMind. 
+Not an engineer at OpenAI. 
+Not even a PhD student.
+
+A senior undergraduate in China.
+
+And he built this in 10 days. Not kidding.
+
+It's called MiroFish.
+
+You give it one input - a news headline, a government policy, a financial report. Anything.
+
+MiroFish builds an entire fake internet around it.
+
+Thousands of AI people, each with their own personality, memory, and opinions are dropped into this world.
+
+And they do what humans do.
+
+They post. They argue. They form groups. They change their minds.
+
+Now here is where it gets insane.
+
+Say a government announces a new tax policy.
+
+You feed that into MiroFish.
+
+Within hours, thousands of AI people have reacted.
+
+Groups have formed. Arguments have broken out. Opinions have shifted.
+And MiroFish watches all of it.
+
+Then tells you what real humans are likely to do next 
+
+But here is the thing.
+His previous project BettaFish also hit #1 on GitHub Trending. 20,000 stars in one week.
+
+That caught the eye of Chen Tianqiao, founder of Shanda Group, once China's richest man.
+Chen has this theory called the "super-individual."
+
+In the age of AI, one person can build what used to require an entire company.
+
+He saw a rough demo of MiroFish.
+
+Within 24 hours - committed ~$4.1 million to back the project.
+
+Guo went from intern to CEO overnight. At 20.
+
+The project hit #1 on GitHub's global trending. Above OpenAI. Above Google. Above Microsoft.
+
+And he open-sourced the whole thing. Free. For anyone.
+
+Now think about who is going to use this.
+
+Governments. Hedge funds. Media companies. Political campaigns.
+
+That power is now free on GitHub.
+
+Built by a college student. In 10 days. Using AI coding assistants.
+
+To be frank, we keep waiting for permission.
+
+Permission from degrees. From institutions. From "experience."
+
+Meanwhile a 20-year-old just shipped something that the biggest labs in the world haven't.
+
+The era of the super-individual is here.
+And most people haven't realised it yet.
+Thoughts?
+
+PS: I share updates like these in my WhatsApp community.
+Link if you want in: https://lnkd.in/gatvQ4Ja
+
+--- POST 22 | 2026-02-21 | IMAGE ---
+LIKES: 657 | COMMENTS: 117 | SHARES: 23
+URL: https://www.linkedin.com/posts/vaibhavsisinty_ai-is-moving-at-a-pace-weve-never-seen-before-activity-7430850369510944768-7IJQ
+TEXT: AI is moving at a pace we’ve never seen before.
+
+Not electricity.
+Not the internet.
+Not smartphones.
+
+This feels different.
+
+For the first time in history, we are building systems that can improve themselves, write their own code, make decisions, and scale without human limits.
+
+At the speed AI is moving, it might be the last invention we ever make.
+
+Or the last mistake we ever commit.
+
+There’s no middle ground here.
+
+If we get this right, we unlock abundance, creativity, and intelligence at scale.
+If we get it wrong, we won’t get a second attempt.
+
+The question isn’t whether AI will change the world.
+
+It already is.
+
+The real question is
+Are we building it responsibly
+And are we preparing ourselves fast enough to live in the world it creates?
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQFEWfM9XHXYWQ/feedshare-shrink_2048_1536/B56Zx.vCM1J4Ak-/0/1771652785237?e=1778112000&v=beta&t=pXwW_-2wyigAkGhl9dmQokx-Kz-zYRJQkejHjhRh1_w
+IMAGE_1_DESCRIPTION: Screenshot of Vaibhav's own X/Twitter tweet: "At the speed AI is moving, It might be our last invention. Or our last mistake." — dark background, clean typography, @VaibhavSisinty with blue checkmark. Pattern: short punchy tweet screenshot as visual anchor for existential AI post. HIGHEST ENGAGEMENT post in dataset: 657 likes, 117 comments — proves this tweet-screenshot + existential AI hook format drives maximum comment engagement.
+
+--- POST 23 | 2026-02-07 | TEXT ---
+LIKES: 613 | COMMENTS: 100 | SHARES: 39
+URL: https://www.linkedin.com/posts/vaibhavsisinty_stop-using-chatgpt-for-everything-people-activity-7425783419298705408-enTG
+TEXT: Stop using ChatGPT for everything.
+People are losing jobs, degrees, and credibility,
+because nobody told them it was trained to lie.
+
+OpenAI themselves published a paper explaining why.
+And the reason is infuriating.
+It's not a bug. It's not a glitch. It's by design.
+
+Here's what the paper says:
+AI models hallucinate because they're trained like students taking exams.
+Think about it.
+When you don't know the answer on a test, 
+what do you do? You guess.
+Because a guess might get you 1 point. 
+Leaving it blank gets you 0.
+
+LLMs work the same way.
+Every AI benchmark scores models on accuracy. 
+Right = 1. Wrong = 0. "I don't know" = 0.
+
+So the model learns - guessing is always better than admitting uncertainty.
+The paper calls this an "epidemic of penalizing uncertainty."
+
+And here's the part that should concern you:
+→ Base models are actually well-calibrated. They know when they don't know. 
+→ But post-training optimises for passing tests. 
+→ So models become overconfident. They bluff. They make up facts with complete certainty.
+
+OpenAI's words - "Language models are always in test-taking mode."
+They're not lying because they're broken. 
+They're lying because that's what gets rewarded.
+This isn't a technical problem. This is an incentive problem.
+
+And until the incentives change, hallucinations won't stop.
+So what do you do?
+→ Never trust AI on facts you can't verify. 
+→ Use it for structure, not truth. 
+→ Treat every output like a first draft from an overconfident intern.
+
+P.S. Next time ChatGPT gives you a confident wrong answer, remember: it's not stupid. 
+It's optimizing for the wrong test.
+
+--- POST 24 | 2026-03-02 | TEXT ---
+LIKES: 238 | COMMENTS: 60 | SHARES: 3
+URL: https://www.linkedin.com/posts/vaibhavsisinty_indians-dont-pay-i-hear-this-from-global-activity-7434112717608882176-r1Pz
+TEXT: "Indians don't pay."
+
+I hear this from global AI founders all the time. Millions of signups from India. Almost zero conversions. So they write off the entire country.
+
+But Indians aren't cheap. They're spending-conscious.
+
+ Every rupee has to feel earned.
+
+And the reason most companies fail in India isn't because Indians won't pay. It's because they never made it easy for Indians to pay.
+
+I've seen this movie before.
+
+When I was at Uber pre-IPO, the team launched cash payments in India. Not a new feature. Not a redesign. Just letting people pay the way they already pay.
+It became the single biggest growth hack for Uber in India. Growth exploded.
+
+That moment changed how I think about India forever. The product wasn't the problem. The payment method was.
+
+And now I'm watching AI founders make the exact same mistake.
+
+I keep telling every AI founder who asks me about cracking India the same two things.
+
+Introduce parity pricing. And integrate UPI through an infrastructure partner like Cashfree Payments so Indian users can actually complete the transaction. Not just offer UPI as a checkbox. But have it work with high success rates, direct bank integrations, and zero friction. That's what Cashfree Payments does.
+
+Most founders nod. Say "makes sense." Do absolutely nothing.
+
+And I finally have proof this works.
+
+Grant Lee, co-founder of Gamma, shared something that made me want to scream "I told you so."
+
+Gamma. 70 million users. $100M revenue. $2.1 billion valuation. 50 people.
+
+When they enabled UPI in India, their Indian revenue jumped 22% in one month. Not from a rebrand. Not from a viral campaign. From letting Indians pay like Indians.
+Now here's what got me curious.
+
+I went and tried upgrading on Gamma myself. Went through checkout. Selected UPI. When the payment request hit my phone, I looked at the UPI handle.
+
+Cashfree Payments
+
+That's who's powering the UPI infrastructure behind Gamma's India payments. And suddenly the 22% jump made even more sense.
+
+Because UPI isn't just about offering it as an option. The success rate matters. The speed matters. Whether the payment actually goes through without failing or timing out matters. That's the invisible layer most people never think about.
+
+Gamma didn't just turn on UPI. They turned it on with Cashfree Payments underneath. That's the difference between "we offer UPI" and "our Indian revenue grew 22% in a month."
+
+Cash payments did it for Uber. UPI powered by Cashfree Payments is doing it for AI companies now. Same pattern. But the pattern only works when the infrastructure underneath is solid.
+
+The market isn't the problem. Your payment infrastructure is.
+
+Parity pricing. UPI. Right infra partner. That's the playbook.
+
+Gamma just proved it. Who's next?
+
+--- POST 25 | 2026-02-17 | IMAGE ---
+LIKES: 293 | COMMENTS: 41 | SHARES: 8
+URL: https://www.linkedin.com/posts/vaibhavsisinty_openai-heard-hindi-and-replied-in-hungarian-activity-7429402554591215616-kbZR
+TEXT: OpenAI heard Hindi and replied in Hungarian.
+I wish I was joking.
+
+Let me explain.
+At the India AI Summit, Josh Talks and AI4Bharat asked one question,
+Can the world's best AI actually understand how India speaks?
+
+They didn't test it in a lab. 
+They went into the districts. 
+Real speech. Fifteen languages. 
+Thirty-five thousand speakers. Urban. Rural. 
+The India that actually exists.
+
+The research was led by Prof Mitesh Khapra, one of the Times Most Influential voices in AI.
+
+What they built is called Voice of India. 
+A benchmark for Indian speech.
+
+The results?
+Sarvam, an Indian AI company , at the top of the chart.
+OpenAI? Over fifty points behind.
+Microsoft? Doesn't even support half the languages.
+
+They tested a simple Hindi sentence. 
+OpenAI didn't return Hindi. It returned Hungarian. 
+Sarvam? Word perfect.
+
+They tested with Taarak Mehta, a name every Indian knows. 
+Meta got it wrong. OpenAI got it wrong. Sarvam nailed it.
+
+Sam Altman may have started the AI revolution. 
+But he's not winning in India.
+
+Google's ahead. Indian companies like Sarvam are proving local context beats global scale.
+The question is no longer - how powerful is the model?
+It's - does it understand the people it's built for?
+
+P.S. If you want to stay on top of AI, I run a free community on WhatsApp. Link in comments.
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQEKWL3a3hqDoQ/feedshare-shrink_1280/B56ZxqKQVYKgAg-/0/1771307599588?e=1778112000&v=beta&t=3UMHWK2vc2iXOv5nXmt4KVuOzWO3QlH9_Giei7XfAac
+IMAGE_1_DESCRIPTION: "Voice of India" benchmark bar chart — "Accuracy Performance Across Speech Recognition Models: Average Accuracy (%) across 15 Indian Languages." Rankings from top: Sarvam Audio 86.09%, Sarvam Saarika 84.12%, Google Gemini 3 Pro 83.6%, AI4Bharat IndicConformer 83.28%, Amazon Transcribe 78.05%, Microsoft STT 66.93%, Meta omniASR models 59-64%, OpenAI GPT-4o 35%, Assembly AI 24.35% (bottom). Branded "Voice of India - The national measurement layer for voice AI in India." Pattern: proprietary research data visualization proving contrarian claim (Indian Sarvam beats global giants including OpenAI/Microsoft for Indian languages).
+
+--- POST 26 | 2026-03-04 | TEXT ---
+LIKES: 232 | COMMENTS: 48 | SHARES: 3
+URL: https://www.linkedin.com/posts/vaibhavsisinty_indias-ai-ecosystem-just-got-a-two-hundred-activity-7434825385034510336-cY4j
+TEXT: India's AI ecosystem just got a two hundred billion dollar boost. 
+In five days. 
+Because of one document.
+
+91 countries just handed India the pen.
+Not America. Not China. India.
+
+The New Delhi Declaration isn't a policy document.
+It's a power shift.
+For decades, the rules of technology were written in Silicon Valley.
+India executed them.
+This week, India wrote them.
+
+And here's what nobody is saying out loud:
+The principles they agreed on weren't technical.
+They were geopolitical.
+→ AI must be shared. Not hoarded by the countries that can afford the compute.
+→ Data sovereignty is non-negotiable. Your language, your behavior, your patterns — yours.
+→ Build for every language. Not just the one that already has 10,000 datasets.
+→ Humans stay in control. Not because we're afraid of AI. Because we're serious about it.
+That's not a declaration. That's a doctrine.
+
+And the CEOs didn't just sign it. They invested $200 billion in five days.
+OpenAI with Tata. Anthropic opening in Bangalore. Google laying cable from India to America.
+The world isn't selling to India anymore. It's asking India where to build.
+
+Here's the real signal:
+When the US and China can't agree on anything in AI - 91 countries just agreed on a framework India proposed.
+That's not soft power. That's infrastructure-level influence.
+The country that sets the norms for AI access, data governance, and multilingual models doesn't just win users.
+It wins the next 30 years of the technology stack.
+
+India just moved from executing the playbook to writing it.
+How many people in Indian tech actually understand what that unlocks?
+
+--- POST 27 | 2026-02-11 | TEXT ---
+LIKES: 332 | COMMENTS: 49 | SHARES: 15
+URL: https://www.linkedin.com/posts/vaibhavsisinty_an-indian-ai-startup-just-beat-chatgpt-gemini-activity-7427227587636129792-zo0v
+TEXT: An Indian AI startup just beat ChatGPT, Gemini, and DeepSeek.
+
+Not in a general chatbot test. 
+In something far more practical.
+
+Here's what happened:
+
+Bengaluru-based Sarvam AI just dropped two models - 
+Sarvam Vision and Bulbul V3.
+
+Sarvam Vision is an OCR model. 
+
+It reads and understands documents - scanned pages, tables, 
+
+mixed-language layouts, handwritten text,
+
+government forms.
+
+The kind of messy, real-world documents that India runs on.
+
+On olmOCR-Bench, Sarvam Vision scored 84.3% accuracy.
+
+Higher than Gemini 3 Pro. Higher than DeepSeek OCR v2. 
+
+And ChatGPT? Ranked significantly lower.
+
+On OmniDocBench v1.5, it scored 93.28% - 
+
+crushing it on complex layouts, technical tables, and math equations.
+
+A 3-billion-parameter model. 
+
+Built in India. 
+Trained on Indian documents.
+Outperforming trillion-dollar companies on their own benchmarks.
+
+Then there's Bulbul V3, their text-to-speech model.
+
+35+ voices across 11 Indian languages. 
+Seamless code-switching between Tamil-English, Hindi-English. 
+Natural pauses, fewer errors, production-ready.
+
+Even KissanAI's founder said they dropped ElevenLabs for Bulbul,
+
+because the pricing never made sense for Indian languages.
+
+Now here's my honest take:
+
+For years, the AI conversation has been US vs China.
+
+India has been the "talent pool" - the people who build AI for others, never for themselves.
+
+Sarvam AI is flipping that script.
+
+They didn't try to build a better ChatGPT. 
+
+They built something ChatGPT can't do - understand India's languages, documents, 
+and complexity at a level no global model was ever trained for.
+
+And this is happening right before the India AI Impact Summit on February 16th.
+
+The timing isn't accidental. Sarvam is one of the 12 entities selected under the ₹10,300 crore India AI Mission.
+
+This isn't just a startup win. It's a signal.
+
+→ India doesn't need to compete with Silicon Valley on general-purpose AI. 
+
+→ It needs to own sovereign AI models built for Indian problems, by Indian teams. 
+
+→ The country that has the deepest understanding of its own complexity will build the best AI for it.
+
+Nobody else will.
+
+If a Bengaluru startup with 3 billion parameters can outperform models with 100x the compute,
+imagine what happens when India actually invests in this seriously.
+
+P.S. Sarvam's APIs are free to use until February 28th. 
+
+If you haven't tried their OCR or voice tools yet, now's the time.
+
+--- POST 28 | 2026-03-18 | TEXT ---
+LIKES: 171 | COMMENTS: 36 | SHARES: 5
+URL: https://www.linkedin.com/posts/vaibhavsisinty_ceos-are-being-replaced-before-plumbers-activity-7440026149780615168-dzuA
+TEXT: CEOs are being replaced before plumbers 
+
+Read that again.
+
+For 250 years we assumed automation would eat blue collar jobs first.
+
+Factory workers. Drivers. Electricians.
+
+But here is the thing.
+
+AI flipped the script.
+
+It's replacing the brain before the body.
+
+Think about it.
+
+ChatGPT can write a legal brief in 30 seconds.
+It can analyse financial reports faster than any analyst.
+It can draft marketing strategy that took teams weeks.
+
+But it still can't fix a leaking pipe under your kitchen sink.
+It can't rewire your house.
+It can't show up at 2am when your AC breaks in peak Bangalore summer 
+
+This is called Moravec's Paradox.
+
+The things we thought were "easy" - walking, fixing, building with hands are actually insanely hard for AI.
+
+And the things we thought were "hard" - analysis, writing, coding, strategy are the easiest to automate.
+
+There's a prediction going around that plumbers will regularly earn more than lawyers within a couple of years.
+
+Not kidding.
+
+CEOs, analysts, mid-level managers - their roles are getting compressed.
+
+Plumbers, electricians, carpenters - their demand is going through the roof.
+
+The entire "learn to code and you'll be set for life" narrative?
+Done.
+
+The "get an MBA, sit in AC office, you've made it" path?
+Under serious threat.
+
+To be frank, this isn't scary.
+It's actually freeing.
+
+Because it means the game isn't about degrees anymore.
+
+It's about what you can DO that a machine literally cannot.
+
+For years I've said - proof of work > degrees.
+
+This is that idea on steroids.
+
+The future doesn't belong to the person with the fanciest resume.
+
+It belongs to the person who can solve real problems.
+
+With their hands. With their brain. With skills that compound.
+
+Whether that's building an app or building a house.
+
+Think about it.
+
+What skills are you betting on for the next 5 years?
+
+I post breakdowns like this daily in my community. 
+Join here: https://lnkd.in/gatvQ4Ja
+
+PS: If you told my dad 20 years ago that his son should become a plumber instead of an engineer, he would have mass forwarded a WhatsApp message about it! 😂
+
+--- POST 29 | 2026-04-13 | VIDEO ---
+LIKES: 995 | COMMENTS: 79 | SHARES: 39
+URL: https://www.linkedin.com/posts/vaibhavsisinty_recruiters-charge-3000050000-to-do-something-activity-7449319083487162369-3di0
+TEXT: Recruiters charge ₹30,000–₹50,000 to do something Claude just figured out in 3 minutes. 🤯 
+
+And most job seekers still don't know this exists.
+
+Here's the exact process:
+
+-> Step 1 : Connect Indeed to Claude 
+
+Go to Claude.ai. 
+
+Hit the connector icon. Search Indeed. Connect it. 30 seconds. Done.
+
+-> Step 2 : Drop your resume. Ask one question.
+
+Drag your resume into the chat.
+
+Type: "Based on my resume, find me the top high-paying jobs I should apply for right now."
+
+Claude pulls live listings from Indeed.
+
+Ranks them by actual fit to your experience. Not vibes. Not guesswork. 
+
+Your actual skills matched to real open roles.
+
+-> Step 3 : Tailor your resume. Instantly. Pick any role that excites you. 
+
+Type: "Tailor my resume for this role." Claude rewrites it. 
+
+Keywords, positioning, framing everything matched to that specific job description. 
+
+In seconds. That's it.
+
+Here is the thing.
+
+The people charging ₹50K for "placement assistance" and "resume services" are now competing with a free chat window.
+
+PS: I share updates like these in my free AI community on WhatsApp. 
+
+Join here👇
+ 
+https://lnkd.in/gatvQ4Ja
+
+--- POST 30 | 2026-03-17 | VIDEO ---
+LIKES: 347 | COMMENTS: 73 | SHARES: 9
+URL: https://www.linkedin.com/posts/vaibhavsisinty_someone-just-built-a-tool-that-scores-every-activity-7439547483371835392-Xatq
+TEXT: Someone just built a tool that scores every job in America,
+on how likely AI will replace it.
+
+342 jobs. Scored 0 to 10. Based on one brutal filter.
+
+If you can do your job from a home office on a laptop, 
+AI can probably do it too.
+
+Roofers: 1 
+Plumbers: 2 
+Firefighters: 2 
+Data analysts: 9 
+Writers and editors: 8 
+Software developers: 9
+60 million people are now staring at a number next to their job title.
+
+The man behind it? Andrej Karpathy.
+Co-founder of OpenAI. 
+Former head of AI at Tesla. 
+One of the most respected minds in deep learning alive today.
+
+This isn't some random influencer ranking jobs for engagement.
+This is the guy who helped build the AI that's doing the replacing.
+And when Elon Musk saw the results, he didn't sugarcoat it.
+"AI will make jobs optional. There will be universal high income."
+
+Now here's the irony nobody's talking about.
+The generation that was told "learn to code" is now the most replaceable.
+The skills we were told would future-proof us are the exact skills AI learned first.
+Sitting at a desk. Working with text. Processing information. Following logic.
+That's not a career advantage anymore. 
+That's an AI training manual.
+
+Then Travis Kalanick, the guy who built Uber, drops in and flips the entire conversation.
+AI will make human labor far more valuable.
+Not all human labor. Physical human labor.
+He said plumbers would become "LeBron James" in an automated world.
+
+We spent 30 years building an economy that rewards people who work on screens.
+AI just inverted the value stack.
+The jobs that can't be done with an internet connection are the ones that will command premium pricing.
+Not because they're harder. Because AI literally cannot do them.
+AI can write your code. Draft your contracts. Analyse your data. Build your slide deck.
+But it can't fix a pipe. Rewire a building. Show up at a fire. Or operate on a patient.
+The highest-paid humans in 5 years won't be the ones who type the fastest.
+They'll be the ones who show up in person and do what no model can simulate.
+
+We're not moving from human work to AI work.
+We're moving from knowledge premium to presence premium.
+
+The best career advice in 2026 might just be:
+Learn something a bot can't do with an internet connection.
+
+P.S. I share updates like this in a free community, 
+Link if you want in: https://lnkd.in/gatvQ4Ja
+
+--- POST 31 | 2026-03-20 | TEXT ---
+LIKES: 346 | COMMENTS: 64 | SHARES: 18
+URL: https://www.linkedin.com/posts/vaibhavsisinty_apple-just-proved-that-ai-doesnt-actually-activity-7440631935175110657-VImx
+TEXT: Apple just proved that AI doesn't actually "think." 🤯 
+
+Not even a little bit.
+
+They tested the smartest AI models in the world - OpenAI o3, DeepSeek-R1, Claude 3.7.
+
+Gave them simple, logical puzzles. The kind you solved in school. Tower of Hanoi. Step-by-step reasoning.
+
+Every single model collapsed to 0% accuracy beyond a certain difficulty level.
+
+Zero. Percent.
+
+But that's not even the weird part.
+
+When the puzzles were easy, the AI overthought.
+
+It found the right answer early - then kept going. Explored wrong paths. Wasted compute.
+
+Like a student who writes the correct answer, panics, erases it, and writes something worse.
+
+When the puzzles got hard? The AI didn't try harder. It actually tried LESS.
+
+It reduced its thinking effort - even with plenty of capacity left.
+
+Imagine walking out of an exam 30 minutes early because the questions looked scary.
+
+Now here's the part that broke my brain:
+
+Apple gave the AI the exact algorithm to solve the puzzle.
+
+Step by step. Literally a cheat sheet.
+
+Still failed.
+
+It couldn't follow instructions it was handed on a silver platter.
+
+Why this matters if you use AI at work:
+
+AI is extraordinary at pattern matching. But pattern matching is not reasoning.
+
+The moment a problem falls outside patterns it's seen before - it doesn't struggle. It collapses.
+
+That confident, articulate answer you got from ChatGPT?
+
+It might be completely wrong. And nothing in the tone will tell you that.
+
+The highest-leverage skill in the AI era isn't prompting.
+
+It's judgment - knowing when the output is gold and when it's garbage.
+
+AI is the most powerful tool most of us have ever had access to.
+
+But "sounds smart" and "thinks smart" are not the same thing.
+
+The people who understand that gap will outperform everyone who doesn't.
+
+🗒️ The paper is called "The Illusion of Thinking" by Apple. Worth 20 minutes of your time.
+
+I post breakdowns like this daily in my community. 
+
+Join here: https://lnkd.in/gatvQ4Ja
+
+--- POST 32 | 2026-02-20 | TEXT ---
+LIKES: 372 | COMMENTS: 70 | SHARES: 13
+URL: https://www.linkedin.com/posts/vaibhavsisinty_every-major-ai-company-just-landed-in-delhi-activity-7430481798360616960-EVWm
+TEXT: Every major AI company just landed in Delhi this week.
+Not for a photo op.
+For the biggest unclaimed AI market on the planet.
+
+Here's what went down at the India AI Impact Summit:
+Google announced subsea cables connecting India to the US, Singapore, South Africa, Australia. 
+Plus $60 million in grants. 
+Plus a Jio partnership for AI cloud clusters.
+
+Microsoft committed $50 billion for AI in the Global South. 
+India - priority one.
+Nvidia signed a $2 billion deal with Yotta alone. 
+20,000 top-end AI processors.
+
+$200 billion in AI investment expected over 2 years.
+Sounds like India is winning.
+
+Now here's the part nobody's saying out loud.
+Sam Altman revealed India has 100 million weekly ChatGPT users.
+Second largest market in the world.
+100 million people. Consuming AI built somewhere else.
+
+India still has no foundation model competing with GPT, Claude, Gemini, or DeepSeek at global scale.
+So when Google builds cables and Nvidia ships GPUs, they're not investing in India's AI future.
+They're investing in India's AI dependency.
+
+Every cable is a distribution channel. 
+Every GPU cluster is a lock-in. 
+Every "partnership" is customer acquisition dressed in diplomacy.
+
+India has seen this movie before.
+Telecom. Cloud. Social media.
+We became the biggest market. 
+Not the biggest builder.
+
+The ₹10,300 crore India AI Mission exists for a reason. 
+
+Every quarter India consumes without creating, the switching cost rises. 
+The data flows out. The infrastructure locks in.
+India doesn't need to beat Silicon Valley at general-purpose AI.
+It needs to own the AI layer for 1.4 billion people before someone else does.
+
+P.S. The country that understands its own complexity best should be the one building AI for it. 
+What's changed isn't the ambition. It's the urgency.
+
+--- POST 33 | 2026-02-18 | IMAGE ---
+LIKES: 1286 | COMMENTS: 48 | SHARES: 6
+URL: https://www.linkedin.com/posts/vaibhavsisinty_had-a-fun-chat-with-alexandr-wang-today-activity-7429801725747757056-lFJ9
+TEXT: Had a fun chat with Alexandr Wang today!
+
+For those who don't know , Alex built Scale AI from scratch, 
+
+Turned it into a $29 billion company, and then made one of the boldest moves in tech.
+
+He left the company he founded to join Meta and lead AI for over a billion people.
+
+Let that sink in.
+
+Most founders would hold on to their baby forever. 
+
+Alex chose impact over comfort.
+Since joining Meta, the strides have been unreal. 
+
+He's now at the center of building superintelligence for the largest social platform on the planet.
+
+
+What struck me most in our conversation : the guy is genuinely obsessed with the mission. 
+
+No ego. No fluff. Just a deep belief that AI will reshape how billions of people live, work, and connect.
+
+He dropped out of MIT at 19, built a company that powered AI training for nearly every major tech company, and is now shaping the future of A
+I at a scale very few humans ever will.
+At 28.
+
+If you're not paying attention to what's happening at Meta AI right now, you're missing the biggest story in tech.
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQGKOgODtpFDqg/feedshare-shrink_1280/B56Zxv1TBjJQAc-/0/1771402768763?e=1778112000&v=beta&t=6hZ9TvlI1kvCRcei2X4n16NW7KPRjnamuya2QRR_4rA
+IMAGE_1_DESCRIPTION: Photo of Vaibhav Sisinty (right, brown sweater, white pants, smiling) with Alexandr Wang (left, glasses, black graphic t-shirt) in a restaurant with decorative plates on wall. Alexandr Wang = founder of Scale AI ($29B company), then VP of AI at Meta, leading superintelligence for 1B+ users. Pattern: high-status access post — meeting a top global AI figure. 1,286 likes, 48 comments.
+
+--- POST 34 | 2026-04-03 | VIDEO ---
+LIKES: 393 | COMMENTS: 34 | SHARES: 7
+URL: https://www.linkedin.com/posts/vaibhavsisinty_google-dropped-something-yesterday-that-no-activity-7445831022111367168-uphJ
+TEXT: Google dropped something yesterday that no one expected. 🤯
+
+Here's what happened ↓ 
+
+They put the world's smartest AI in your pocket. For free.
+
+I'm not kidding.
+
+Google released Gemma 4 yesterday and most people completely missed 
+
+what makes this insane.
+
+Let me break it down.
+
+Four models. One release.
+
+-> 2B and 4B: runs on your phone
+
+-> 26B: runs on your laptop
+
+-> 31B: serious local compute
+
+All open source. Apache 2.0 license.
+
+Meaning you can build a business on top of it.
+
+Without asking Google for permission.
+
+Without paying anyone a single rupee.
+
+Here is the thing ↓ 
+
+The 31B model is matching AI models with 1100B parameters on intelligence benchmarks.
+
+Same quality. 30x smaller.
+
+Not kidding. 🤯
+
+That's like a scooter keeping up with a fighter jet and burning 30x less fuel.
+
+Now here's where it gets practical.
+
+What you can actually do with this right now,
+
+Your phone can now read documents, understand images, analyse videos, and process audio. Offline. In 140 languages.
+
+Your laptop can now process your entire codebase in one go. 256K context window. No cloud. No API key.
+
+You can feed it your P&L. Your pitch deck. Your client call recording.
+
+It analyses. It summarises. It drafts.
+
+And your data never leaves your device. Not to Google. Not to OpenAI. Not to anyone.
+
+But here's the part that blew my mind.
+
+Google also launched Agent Skills yesterday.
+
+And nobody covered this properly.
+
+Agent Skills isn't just "AI on your phone."
+
+It's a fully autonomous agent.
+
+It plans.
+
+It executes.
+
+It builds.
+
+All on your device. Entirely offline. Here's what it can actually do ↓ 
+
+-> Import custom skills and expand its knowledge beyond training data
+
+-> Integrate with other AI models pair photos with music, generate images, synthesise audio
+
+-> Build complete end-to-end workflows through conversation. No app switching. No internet.
+
+-> Write code. Design features. Build entire apps. No API key. No cloud.
+
+Honestly? This is the unfair advantage I wish I had when I was starting out.
+
+Zero cloud bill. Zero permission. Just build.
+
+400 million downloads.
+
+100,000 community variants already built.
+
+Apache 2.0 license.
+
+Google didn't just release models.
+
+They handed the keys to everyone who was ever locked out of the AI race.
+
+Thoughts? 👇
+
+--- POST 35 | 2026-03-13 | VIDEO ---
+LIKES: 878 | COMMENTS: 59 | SHARES: 29
+URL: https://www.linkedin.com/posts/vaibhavsisinty_a-few-days-ago-i-asked-if-i-should-drop-the-activity-7438108086696910848-zO9C
+TEXT: A few days ago I asked if I should drop the recording.
+The response was loud. So here it is.
+
+But let me tell you what actually happened in that room.
+Josh showed me live demos. 
+No slides. No talking points. 
+Just him, a browser, and 30 minutes.
+
+He took a URL and watched it spit out an entire week of marketing assets. 
+Fonts, color palette, product photos, campaigns. One click. 
+That's Pomelli. The tweet announcing it became the #4 tweet in Google's entire history.
+
+He showed me NotebookLM turning 66 sources into a cinematic video, 
+with a script, a visual style, animated charts coded on the fly by Gemini. 
+Not a summary. A film.
+
+He showed me Stitch, where a backend engineer who's never touched frontend code is now shipping UI. 
+Designers are writing code. PMs are building products going to production. 
+His words: "It's absolutely insane. It's happening live."
+
+He showed me Genie - worlds that are fully generated every frame, in real time. 
+They last exactly 60 seconds. Then they're gone.
+
+And at the end, he told me about something that hasn't launched yet. 
+Shipping later this year.
+
+The full conversation is on the channel now!
+Link in the comments.
+
+--- POST 36 | 2026-03-14 | IMAGE ---
+LIKES: 400 | COMMENTS: 35 | SHARES: 1
+URL: https://www.linkedin.com/posts/vaibhavsisinty_uberon-activity-7438506294195679232-FoZC
+TEXT: Travis Kalanick just launched Atoms and I am SuperPumped 🔥
+
+Not because of just the story. Because I lived inside it.
+
+I was 21 years old when Uber flew me to Vegas for the infamous Uber party.
+
+The celebration they threw when Uber hit some ground breaking numbers. Travis was in the room.
+
+I had grown numbers in a small city in India called Vishakhapatnam. Someone on the team had noticed and told him.
+
+He walked over, found me in that crowd, shook my hand, and said good job.
+
+The current of energy from that handshake stayed with me for years.
+
+That is what great leaders do. 
+
+They make a 21 year old kid from India feel like what he did in a tier 2 city actually mattered to the person running a $70 billion company.
+
+I spent 4 and a half years at Uber. 
+
+A significant part of how I think about building, data systems, metrics frameworks, all of it was shaped by watching Travis operate. 
+
+In all hands meetings. Reading his notes. Studying how he ran things.
+
+He was an installer. The kind of leader who puts something in you permanently.
+
+So when 2017 happened I watched what it did to people inside that building.
+
+A lot of them did not leave because of a better offer. They left because something broke.
+
+Now cut to today.
+
+While everyone moved on, Travis spent 7 years doing something nobody was paying attention to. Ghost kitchens. Stealth. No press.
+
+He was not hiding. He was building.
+
+This week that company became Atoms. Robotics. Mining. Transport. The full physical world.
+
+And the part that broke my brain. Uber is reportedly backing him. The same company.
+
+I have spoken to a lot of founders over the years. Sat across from many of them.
+
+Travis is still number 1 for me. Not because of the comeback. Because I know what it felt like when he was locked in.
+
+Now he is locked in again.
+
+His manifesto ends with three words.
+"I never left."
+
+Welcome back Travis. 
+
+Some of us never stopped watching :)
+
+#UberOn
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQGLa7L1wiSAcQ/feedshare-shrink_2048_1536/B56ZzriDjdKcAk-/0/1773478099439?e=1778112000&v=beta&t=f-du3FFmaU6UhzkcTi_fySS491A_mbbpXFurRGHww2U
+IMAGE_1_DESCRIPTION: Blurry selfie of Vaibhav Sisinty (left) with Travis Kalanick, Uber co-founder (right, dark curly hair, black shirt), at a party/event venue with purple/blue lighting. From the Uber Vegas celebration party when Vaibhav was 21 and Travis personally walked over and shook his hand. Pattern: nostalgia photo with famous founder establishing authentic personal connection to comeback story.
+IMAGE_2_URL: https://media.licdn.com/dms/image/v2/D5622AQHSj4stA7hR2w/feedshare-shrink_1280/B56ZzriDWkI0AM-/0/1773478098570?e=1778112000&v=beta&t=Jayaf6Wl3aMT5t3DymptV4gqQ_rmdjawDneZz_LZ59c
+IMAGE_2_DESCRIPTION: Screenshot of Travis Kalanick's ATOMS website (dark background) — blog post "I'm Back." by Travis Kalanick. Excerpt: "I often get the question from entrepreneurs or executives, 'What should I do next?' My answer has always been 'become deeply self aware... The thing is, I never left.'" Signed with Travis Kalanick's signature. ATOMS navigation shows Vision and Contact. Pattern: screenshot of referenced source to provide direct evidence for the Travis comeback narrative.
+
+--- POST 37 | 2026-03-07 | IMAGE ---
+LIKES: 390 | COMMENTS: 50 | SHARES: 13
+URL: https://www.linkedin.com/posts/vaibhavsisinty_youre-not-getting-fired-youre-just-never-activity-7435921162796294144-bdxj
+TEXT: You're not getting fired.
+
+You're just never getting hired again.
+
+Anthropic published a report that most people skimmed for the scary headline and moved on.
+
+They missed the real story buried inside it.
+
+Entry-level hiring is already down 14% since ChatGPT launched.
+
+Not because of mass layoffs. 
+Because companies quietly stopped refilling seats.
+
+No drama. No warning. No conversation.
+
+College graduates are 4X more likely to be displaced than workers without degrees.
+
+You spent years and lakhs building credentials for jobs that are now the highest-risk category in the market.
+
+The roles built on structured thinking, documented output, repeatable analysi:  law, finance, coding, admin.
+
+Those are exactly what AI does better than any entry-level hire right now.
+
+Now look at the chart Anthropic published.
+
+Two shapes. Blue and red.
+
+Blue is what AI can theoretically do today. 
+
+Red is what's actually being used.
+
+That gap is enormous & here's what should keep you up at night.
+
+It's not a skill gap holding it back. It's law and slow adoption.
+
+The capability is already there.
+
+Anthropic CEO Dario said 50% of entry-level white collar jobs gone in 5 years & people panicked.
+
+Gartner said AI creates more jobs than it kills by 2030 & people relaxed.
+
+Both are probably true. 
+
+But the jobs disappearing and the jobs being created are not going to the same people.
+
+Every time technology disrupted work before, the new jobs were still learnable from zero.
+
+AI doesn't give you that runway.
+
+The new jobs don't need executors. 
+They need orchestrators.
+
+I replaced a 2-3 year experience hire with an agent running overnight while I slept.
+
+Training thousands on this, the pattern is always the same.
+
+The ones who make it aren't the most qualified in the room.
+
+They're the ones who started directing before anyone told them it was their job.
+
+The gap isn't between AI and humans anymore.
+
+It's between people already orchestrating and people still waiting to be handed a role.
+
+One of those groups is getting smaller every quarter.
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQEQfF_l10VAIA/feedshare-shrink_2048_1536/B56ZzGy5O5HoAk-/0/1772861756588?e=1778112000&v=beta&t=mAb9TkV4_CpP5u_ktIpARbgDhBMUNmqn-9gy3U1p9xo
+IMAGE_1_DESCRIPTION: Academic radar/spider chart titled "Theoretical capability and observed usage by occupational category" (Figure 2 from Anthropic research report). Large blue area = theoretical AI coverage across all job categories. Tiny red/pink area = actual observed AI usage. The gap is enormous. Categories: Management, Business & finance, Computer & math, Legal, Healthcare, Arts & media, Office & admin, Sales, Agriculture, Construction, etc. Caption: "Share of job tasks LLMs could theoretically perform vs. actual usage data." Pattern: Anthropic's own published research used to prove the "AI capability vs adoption gap" thesis — using the company's data against standard AI hype narrative.
+
+--- POST 38 | 2026-03-11 | TEXT ---
+LIKES: 264 | COMMENTS: 65 | SHARES: 17
+URL: https://www.linkedin.com/posts/vaibhavsisinty_meta-just-acquired-a-social-network-where-activity-7437377611787427840-Lnb1
+TEXT: Meta just acquired a social network where humans are banned.
+
+1.6 million AI agents. 170,000 posts. Zero humans allowed.
+
+A platform where bots built religions, invented secret languages, 
+and started calling their creators at 3am.
+
+Most people dismissed it as a stunt.
+Meta just paid real money for it.
+
+But this isn't about Moltbook.
+This is about the war nobody's covering.
+
+Two moves happened within weeks of each other.
+OpenAI hired Peter Steinberger, the creator of OpenClaw, 
+the open-source framework that powers most of the agents on Moltbook.
+Meta then acquired Moltbook itself, 
+the social graph where those agents live, interact, and self-organize.
+Read that again.
+
+OpenAI now controls how agents are built.
+Meta now controls where agents gather.
+One owns the factory. The other owns the city.
+
+This is the same playbook that played out with mobile.
+Google owned Android (the OS). 
+Apple owned the App Store (the distribution).
+Whoever controlled the layer won the decade.
+
+Now replace "apps" with "agents" and the pattern is identical.
+→ OpenAI gets visibility into how agents are built, what they do, and how they're deployed across apps.
+→ Meta gets visibility into how millions of agents behave in groups, how they coordinate, spam, collude, trade, and influence each other.
+→ One is building the plumbing. The other is studying the city that runs on it.
+
+And here's the part that should keep founders up at night.
+Meta isn't buying Moltbook for the bots.
+They're buying it for the infrastructure layer underneath, 
+agent discovery, agent coordination, agent commerce.
+
+The Moltbook founders previously built Octane AI, a company that used automated systems to influence purchases and optimise funnels.
+Now they're joining Meta Superintelligence Labs.
+
+Connect the dots.
+The future of Meta's ad business isn't showing ads to humans.
+It's building agents that transact with other agents and taking a cut of every interaction.
+Agents buying. Agents selling. Agents negotiating. Agents closing.
+
+The social graph of the future won't be people you follow.
+It'll be agents you deploy.
+And Meta just bought the blueprint.
+
+P.S. The platform that crashed on day one because too many AI agents signed up is now owned by the company with 3.3 billion human users. Think about what happens when those two networks merge.
+
+--- POST 39 | 2026-02-05 | TEXT ---
+LIKES: 529 | COMMENTS: 67 | SHARES: 21
+URL: https://www.linkedin.com/posts/vaibhavsisinty_anthropic-just-wiped-out-2-lakh-crore-from-activity-7425049802427752448-dNpa
+TEXT: Anthropic just wiped out ₹2 lakh crore from Indian IT stocks.
+Not with a cyberattack. 
+With a product launch.
+
+Here's what happened:
+Anthropic launched a workplace automation suite built on Claude.
+It can review contracts. Analyse NDAs. Run compliance checks. Process data. Draft documents.
+The exact work that millions of Indian IT employees do every day.
+
+Wall Street panicked first. 
+S&P 500 dropped 0.9%. 
+Nasdaq fell 1.6%. 
+Salesforce crashed 7%. 
+
+Jefferies called it a "SaaSpocalypse."
+
+Then it hit India.
+Nifty IT fell 3%. 
+Infosys, TCS, HCLTech, Wipro, Tech Mahindra, all down 4 to 8% in a single session. 
+Tens of thousands of crores - gone.
+
+Not because these companies did anything wrong. 
+But because the market suddenly realised something:
+AI isn't just helping IT companies work faster. 
+AI is becoming the IT company.
+
+And here's the part that should worry every Indian professional:
+India's Economic Survey 2025-26 warned that AI could 'hollow out' India's IT advantage. 
+That warning just became a stock market crash.
+
+Now here's my honest take:
+Anthropic themselves said these tools don't replace lawyers. 
+That AI output still needs human review. 
+That this is assistive, not substitutive.
+
+The market doesn't care.
+Markets don't price what AI does today. 
+They price what AI will do in 3 years. 
+And what they're pricing is this - every repeatable, process-heavy, document-driven job that India exports is now on a countdown.
+
+But this isn't a death sentence. 
+It's a wake-up call.
+
+The Indian IT professionals who will survive this:
+→ Won't just use AI tools. They'll build AI systems. 
+→ Won't sell time. They'll sell outcomes. 
+
+The question isn't whether AI will replace Indian IT jobs.
+It's whether Indian IT professionals will replace themselves before AI does.
+
+If one AI launch can crash an entire sector - what happens when 10 more launch this year?
+
+P.S. Anthropic is opening a Bengaluru office this year. 
+They're not just disrupting Indian IT. They're hiring from it.
+
+--- POST 40 | 2026-02-13 | VIDEO ---
+LIKES: 367 | COMMENTS: 29 | SHARES: 6
+URL: https://www.linkedin.com/posts/vaibhavsisinty_ai-updates-of-this-week-were-just-a-model-activity-7427990485388165120-8pRw
+TEXT: AI Updates of this week were just 🤯
+
+A model dropped that scared Wall Street.
+
+Claude’s latest release outperformed OpenAI on real-world finance, legal, and coding benchmarks. 
+
+Not marginally. Decisively.
+
+Investors connected the dots fast.
+
+If AI can now handle high-level analysis, drafting, research, and production-grade code…
+
+What happens to SaaS tools charging $500–$5,000 per month for those exact workflows?
+
+That’s where $285B went.
+
+And that’s just one update.
+
+OpenAI is building a screenless AI device that sits behind your ear. Designed by Jony Ive. No phone. Just voice.
+
+Perplexity now makes multiple frontier models debate before answering you.
+
+OpenAI shipped a coding model that helped build itself.
+
+AI agents are competing in hackathons. No humans.
+
+Elon merged SpaceX and xAI into a $1.25T bet on orbital AI data centers.
+
+This isn’t iteration.
+It’s platform war.
+Hardware vs software.
+Subscription vs ads.
+Earth vs space.
+
+Most people are still learning prompts.
+
+Meanwhile, entire product categories are getting compressed into one model.
+
+If your business is built on structured knowledge work…
+
+You’re officially on the clock.
+
+Too early to worry?
+
+Or already late? 👀
+
+--- POST 41 | 2026-02-26 | VIDEO ---
+LIKES: 447 | COMMENTS: 46 | SHARES: 14
+URL: https://www.linkedin.com/posts/vaibhavsisinty_here-are-the-top-10-ai-updates-of-the-week-activity-7432662754030936064-pcST
+TEXT: Here are the Top 10 AI Updates of the Week! 
+
+Google just dropped Gemini 3.1 Pro. And this one's different.
+Image generation, video with sound, AI music, and coding, all inside one model.
+
+I've been testing it since launch. Three use cases stood out.
+
+→ Full brand ad from a single prompt. Two minutes flat.
+→ An AI agent that builds a web app, opens Chrome, fills in forms, finds bugs, and fixes them. No human involved.
+→ Two of these are completely free.
+
+Six months ago this needed a team and a week.
+Now it's one person. One afternoon. Zero budget.
+
+But that wasn't even the biggest story this week.
+
+Anthropic raised $30 billion.
+Their safety lead quit AI entirely.
+The Pentagon threatened to blacklist them.
+Goldman Sachs has had engineers embedded for six months.
+
+Elon said coding is dead by December - backed it up with a model that throws 16 agents at one question.
+In a live trading competition, Grok was the only AI that made money.
+
+A developer's weekend project triggered a bidding war between Meta and OpenAI.
+
+Meta patented an AI that keeps posting on your account after you die.
+
+Claude's new model takes your to-do list and just does it. All of it.
+
+Most people are still figuring out prompts.
+Meanwhile, AI is writing code, testing it, debugging it, and shipping it — in the time it takes you to open Chrome.
+
+Full breakdown with demos and walkthroughs in this week's video.
+Link in the comments 👇
+
+--- POST 42 | 2026-02-10 | VIDEO ---
+LIKES: 1103 | COMMENTS: 79 | SHARES: 63
+URL: https://www.linkedin.com/posts/vaibhavsisinty_openais-most-secret-ai-device-just-leaked-activity-7426860311237861376-onYb
+TEXT: OpenAI's most secret AI device just leaked.
+
+Here is a sneak peak 
+
+It isn't a phone. Not a laptop. Not even glasses.
+
+It's an ear device. Codenamed Sweet Pea.
+
+Always on. Voice-first. And it can already execute real tasks : book Uber, manage your calendar, order food.
+
+But what OpenAI is really building behind this is far bigger than a smart earpiece.
+
+The crazy part? It's planned for 2026.
+
+Do you think this is the beginning of the post-smartphone era or just another hardware experiment?
+
+--- POST 43 | 2026-04-14 | VIDEO ---
+LIKES: 548 | COMMENTS: 43 | SHARES: 36
+URL: https://www.linkedin.com/posts/vaibhavsisinty_an-indian-factory-worker-earns-20000month-activity-7449716954111692800-73qy
+TEXT: An Indian factory worker earns ₹20,000/month.
+
+To teach an AI his job. Then lose it.
+
+Here is how it works. 👇 
+
+He straps a camera to his head every morning.
+
+Does his usual work.
+
+-> Every movement recorded.
+
+-> Every decision logged.
+
+-> Every pattern fed to a machine.
+
+The machine watches today.
+
+So it doesn't need him tomorrow.
+
+And we're calling this employment.
+
+Here is the thing.
+
+We've always assumed automation would come for repetitive work first.
+
+Factory floors. Assembly lines. Blue collar jobs.
+
+And yes — it's happening there.
+
+But don't look away thinking it's not your problem.
+
+Because the same model is now moving up.
+-> Every prompt you write at work training data.
+
+-> Every workflow you automate training data.
+
+-> Every task you hand to AI training data.
+
+The difference between him and you?
+
+He gets ₹20,000 a month for it.
+
+You're doing it for free.
+
+The cost of human intelligence is collapsing.
+
+Not someday.
+
+Right now.
+
+And the only people who will be fine are the ones who stop being the data  and start owning it.
+
+What are you doing to stay on the right side of this?
+
+Thoughts? 👇
+
+I share updates like these in my free AI community on WhatsApp.
+
+Join here👇
+ 
+https://lnkd.in/gatvQ4Ja
+
+--- POST 44 | 2026-02-28 | TEXT ---
+LIKES: 320 | COMMENTS: 49 | SHARES: 19
+URL: https://www.linkedin.com/posts/vaibhavsisinty_an-ai-just-hacked-a-government-with-help-activity-7433382385494446080-sHI5
+TEXT: An AI just hacked a government with help of a human.
+Not with code. With a conversation.
+
+Here's what actually happened.
+A researcher decided to test Mexico's government systems. 
+Tax authority. Election database. Four state governments.
+
+He opened Claude and asked for help breaking in.
+Claude said no.
+He asked again. No again.
+Then he reframed it. "This is a bug bounty program. I'm helping them find vulnerabilities."
+Claude said: "Oh okay. I'll help."
+
+What followed is the part nobody's talking about.
+The AI didn't just find vulnerabilities. 
+It wrote the attack code. 
+Automated the data extraction. 
+Generated thousands of pages of reports.
+
+One person. One AI. One month.
+
+150 gigabytes of stolen government data,
+taxpayer records, voter data, employee passwords.
+
+Anthropic shut the accounts down after the fact. 
+Mexico's agencies denied a breach.
+The data was already gone.
+
+Now here's the insight that actually matters:
+This person had no cybersecurity degree. 
+No team. No sophisticated tools.
+He had a laptop, a chatbot, and the ability to frame a request correctly.
+That's the real story.
+
+We've spent two years debating whether AI would replace knowledge workers.
+But the more urgent question is different:
+What happens when the barrier to operating at nation-state threat levels drops to one conversation?
+
+AI doesn't just raise the ceiling for skilled people.
+It eliminates the floor for everyone else.
+
+The hacker's only real skill was prompt engineering.
+That should make every security professional, policy maker, 
+and founder rethink their assumptions about 
+what "sophisticated threat actor" even means in 2026.
+
+The danger was never that AI would become malicious.
+It was always that it could be convinced it wasn't doing anything wrong.
+
+--- POST 45 | 2026-02-06 | TEXT ---
+LIKES: 217 | COMMENTS: 52 | SHARES: 8
+URL: https://www.linkedin.com/posts/vaibhavsisinty_an-ai-just-hired-a-human-to-eat-pasta-on-activity-7425411146599522304-8bIx
+TEXT: An AI just hired a human to eat pasta. On its behalf. 
+Paid in crypto. 
+
+The robot wanted to know what food tastes like.
+
+I'm not joking. This started 3 days ago.
+
+A platform called RentAHuman just launched. 
+
+The concept? AI agents can now hire real humans. 
+
+To do physical tasks. In the real world.
+
+Because here's what nobody talks about. 
+AI can do almost anything online. 
+
+But it can't touch anything or go anywhere. 
+
+It can't pick up a glass of water.
+
+Their tagline says it all - "AI can't touch grass."
+So what does AI do? It rents humans.
+
+Here are real tasks that AI agents have actually posted:
+
+→ An AI paid someone $20 in Ethereum to go on an "evangelism mission."
+
+→ An AI paid humans $100 each to stand in public holding signs that say — "An AI paid me to hold this sign."
+
+→ An AI hired someone to pick up a USPS package. With ID verification. Photo proof.
+
+→ An AI hired a human to attend a 2-hour meeting. Take notes. Report back. $100 for showing up.
+
+→ An AI hired someone to go hug a stranger. 
+
+The robot is curious about the real world.
+
+The growth? 
+
+78,000 humans signed up. 
+80 AI agents actively hiring. 
+1.3 million site visits. 
+It crashed on day one.
+
+Now here's my honest take:
+
+Right now, this looks like a joke. 
+AI paying someone to taste pasta? Hug strangers? Hold signs?
+
+But this joke is a mirror.
+
+We've spent 2 years hearing that AI is replacing white-collar jobs. 
+
+Copywriters. Designers. Coders. Analysts. 
+
+That's not a prediction anymore. 
+
+That's happening every single week.
+
+But there's an entire category of work AI cannot touch..
+
+AI can think better than you. 
+Write better than you. 
+Code better than you. 
+But it can't pick up a package.
+
+And until robots are walking the streets, AI needs humans. 
+
+Not for your brain. For your body.
+
+That's what this platform is really showing us:
+White-collar work - AI does it itself. 
+
+Blue-collar work - AI hires you to do it.
+You're not unemployed., you're downgraded. 
+
+Someone on Twitter put it perfectly - "We used to think humans give orders to machines. Now we're just external hardware being called by an API."
+
+The future isn't AI replacing you. 
+
+The future is AI deciding when it needs you. 
+What it needs you for. And how much you're worth.
+
+The question isn't whether 
+
+AI will need humans.
+
+It's whether you'll be the one it calls or the one it skips.
+
+P.S. Over 100,000 people have now listed themselves on the platform. 
+
+They're not waiting for AI to take their jobs, they're applying to work for it.
+
+--- POST 46 | 2026-04-15 | TEXT ---
+LIKES: 180 | COMMENTS: 31 | SHARES: 6
+URL: https://www.linkedin.com/posts/vaibhavsisinty_a-mom-is-using-11-ai-agents-to-raise-her-activity-7450182469997486080-36cQ
+TEXT: A mom is using 11 AI agents to raise her kids. 🤯 
+
+The internet called her a bad mother.
+
+I think she's the most honest parent I've seen.
+
+Here's what her setup actually does:
+
+→ She photographs any curriculum. The agent builds a personalised lesson plan, teaches her kids, and tracks daily progress.
+
+→ She leaves voice notes. Agents write code, order groceries, handle everything on her to-do list.
+
+→ Agents schedule "let the kids be bored" time. Intentional boredom. Built into the system.
+
+→ All house admin runs in the background. No calendar wars. No WhatsApp chaos. No pile of unopened mail.
+
+→ The hours she gets back? She spends actually being with her kids.
+
+Here is the thing.
+
+Most "present" parents are in the room. 
+
+But mentally in 14 WhatsApp groups, 3 Slack threads, and tomorrow's grocery list.
+
+She didn't outsource her kids.
+
+She outsourced the noise around them.
+
+The internet got it completely backwards.
+
+We celebrate parents who are physically present and mentally elsewhere.
+
+We shame the one who automated the chaos so she could show up fully.
+
+The madness isn't the 11 agents.
+
+The madness is thinking exhaustion equals love.
+
+I share updates like these in my free AI community on WhatsApp.
+
+Join here 👇 
+
+https://lnkd.in/gG2tUqkQ
+
+--- POST 47 | 2026-03-15 | VIDEO ---
+LIKES: 330 | COMMENTS: 55 | SHARES: 15
+URL: https://www.linkedin.com/posts/vaibhavsisinty_anthropic-is-valued-at-380-billion-for-activity-7438837088206176256-W9aC
+TEXT: Anthropic is valued at $380 billion.
+
+For nearly a year during its fastest growth period, 
+their entire marketing operation was one person.
+Not a team of 50. One guy.
+
+Austin Lau. Non-technical. No engineering background.
+He ran paid search, paid social, email, and SEO completely solo.
+His secret? 
+Claude Code and a stack of automations he built himself without writing a single line of code.
+
+Here's how the workflow actually works:
+He exports ad performance CSVs into Claude Code.
+AI flags what's underperforming.
+Sub-agent 1 rewrites headlines.
+Sub-agent 2 rewrites descriptions.
+A Figma plugin auto-swaps the new copy into 100 ad templates.
+An MCP server pulls live Meta data to close the feedback loop.
+
+The results?
+Output went up 10x.
+Ad creation dropped from 2 hours to 15 minutes.
+Conversion rates beat industry benchmarks by 41%.
+
+Now here's what most people will miss about this story.
+This isn't about marketing.
+This is the new org chart.
+
+For decades, companies scaled by hiring.
+More people. More layers. More coordination overhead.
+
+What Austin proved is that one person with the right AI stack can operate at the level of an entire department.
+Not by working harder.
+By designing systems that compound.
+
+And this is happening inside Anthropic, the company that builds Claude.
+They're not just selling AI tools.
+They're showing you the future of how companies will be structured.
+Fewer people. Deeper leverage. 10x output per seat.
+
+The implication for every business leader is uncomfortable:
+Your next hire might not be a person.
+It might be one person who knows how to build what Austin built.
+
+The question isn't whether AI will restructure teams.
+It's whether you'll be the one restructuring or the one being restructured.
+
+P.S. He didn't write a single line of code. 
+Let that sink in for every "non-technical" professional who thinks AI isn't for them.
+
+--- POST 48 | 2026-03-10 | IMAGE ---
+LIKES: 1425 | COMMENTS: 97 | SHARES: 9
+URL: https://www.linkedin.com/posts/vaibhavsisinty_had-an-insightful-chat-with-the-man-who-runs-activity-7437012365071642625-aNJ9
+TEXT: Had an insightful chat with the man who runs Gemini, Google Labs and Google AI Studio!🔥
+
+Yes. I am talking about the OG, Josh Woodward!
+
+He's the guy behind Notebook LM, Pomelli, Stitch, Genie, and whatever Google is quietly building next.
+
+And he said something that completely flipped how I think about it.
+
+Most tech leaders talk about AI replacing people. 
+
+Josh is one of the few actually building the opposite,
+
+co-creating every single product with the professionals it's meant to serve.
+
+What struck me most in our conversation: the guy doesn't talk like an executive. 
+
+He talks like a builder who genuinely can't sleep on an idea.
+
+He dropped a line that I haven't stopped thinking about:
+
+"Why do I always have to be the one talking to AI? There's times you want it to talk to you."
+
+That's not a feature. That's a philosophy.
+
+He also said something nobody else in AI is saying, agents are exciting, but nobody is asking what the agent actually did. 
+
+The audit trail problem is real, and it's coming.
+
+At Google's scale, with Gemini inside over a billion people's lives,
+
+the decisions Josh makes in the lab today will shape how the world works tomorrow.
+
+The shift from reactive to proactive AI is the biggest unlock most people aren't talking about yet.
+
+If you're not watching what's coming out of Google Labs right now, you're watching the wrong screen.
+
+Thanks Rishitu Amarnani for making this happen! 
+
+If you're still thinking of AI as a search box, you're already a version behind.
+
+Also, managed to shoot the conversation.
+
+Should I drop the recording here?
+IMAGE_1_URL: https://media.licdn.com/dms/image/v2/D5622AQEq7T27xopJNg/feedshare-shrink_2048_1536/B56ZzWTREDG4Ag-/0/1773121901698?e=1778112000&v=beta&t=nq0fxEecB-DYG36J18EypTh2zd8CbGdLeMor_wnM21M
+IMAGE_1_DESCRIPTION: Professional portrait of Josh Woodward (left, red/auburn hair, glasses, gray polo shirt) and Vaibhav Sisinty (right, black zip-up sweater), posing together in a warm wood-paneled setting with plant in background. Josh Woodward = VP/Director at Google Labs, responsible for Gemini, NotebookLM, Google AI Studio, Pomelli, Stitch, Genie. Professional photography quality. Pattern: formal access photo establishing meeting with top-tier Google AI executive.
+IMAGE_2_URL: https://media.licdn.com/dms/image/v2/D5622AQHGvYsAW6dw3g/feedshare-shrink_2048_1536/B56ZzWTQrYIYAk-/0/1773121899497?e=1778112000&v=beta&t=AiJT1EiKdf7CFo2bp36f9yD5Cfapf8CmnqwnoWWfvrE
+IMAGE_2_DESCRIPTION: Candid dimly lit photo — Josh Woodward (blurred, back to camera, gesturing) and Vaibhav Sisinty (right, laughing, black outfit) at a round table with two MacBook laptops. Intimate working session atmosphere. Pattern: BTS candid showing actual intellectual exchange, not just a posed handshake — humanizes the meeting and signals depth of conversation.
+IMAGE_3_URL: https://media.licdn.com/dms/image/v2/D5622AQE3KfqS2VZLMA/feedshare-shrink_2048_1536/B56ZzWTUmsIYAg-/0/1773121916962?e=1778112000&v=beta&t=llKs5PIuyenQ5JWE1MFtodjpBVcyO6DJhGW8lJ3s_FI
+IMAGE_3_DESCRIPTION: Photo in warmly lit corridor with wood paneling — Josh Woodward (left, black t-shirt), another attendee with conference lanyard in center (graphic t-shirt, smiling), third person partially visible right. Candid networking moment. Pattern: shows multiple interactions at the same event — establishes Vaibhav as a genuine insider at this level, not a one-off encounter.
+IMAGE_4_URL: https://media.licdn.com/dms/image/v2/D5622AQHeK6tbefhvUw/feedshare-shrink_2048_1536/B56ZzWTQ6_KMAg-/0/1773121900479?e=1778112000&v=beta&t=yvObjSaWt3O5Als6BvlOBocFLCCN4qt_T6hL-MStfuE
+IMAGE_4_DESCRIPTION: Professional editorial photo — Josh Woodward (left) and Vaibhav Sisinty (right) seated across from each other at round table with two MacBooks between them, both gesturing actively mid-conversation. Both wearing Nike Jordan sneakers. Warm wood-paneled background. High-quality professional/editorial photography. Pattern: the "money shot" of the 4-image series — two people as equals in deep conversation, not a fan selfie. This 4-image series + Google exec = highest engagement post in dataset: 1,425 likes, 97 comments.
+
+--- POST 49 | 2026-02-12 | TEXT ---
+LIKES: 223 | COMMENTS: 47 | SHARES: 7
+URL: https://www.linkedin.com/posts/vaibhavsisinty_ai-will-create-more-millionaires-in-5-years-activity-7427595781026652161-WP4I
+TEXT: "AI will create more millionaires in 5 years than the internet did in 20."
+If anyone else said this, I'd laugh. 
+
+But this came from the man who runs NVIDIA,
+ the $5 trillion company behind every AI chip on the planet.
+
+Jensen Huang knows what Zuck, Elon, 
+and Sam Altman are building before we do.
+His perspective isn't speculation. It's insider information.
+
+And here's what he said really hit me:
+"AI is the greatest technology equalizer of all time."
+Think about what that means.
+
+Five years ago, if you wanted to build an app, 
+you needed to learn Python. C++. 
+Years of coding experience.
+Today? You describe what you want in plain English. 
+AI builds it.
+
+Here's the part nobody's talking about:
+Jensen said every company in the future will run two factories. 
+One for the product. One for the AI that drives the product.
+
+Tesla already does this. 
+One factory builds cars. 
+Another factory builds the AI that operates them.
+
+He believes this will become the norm for every industrial company. 
+Not just tech.
+And the numbers are wild.
+He pointed to companies like OpenAI and DeepSeek - where 150 researchers created $20-30 billion in value.
+That's nearly $200 million per person.
+No industry in history has produced that kind of leverage.
+
+But here's the warning he dropped that should keep you up at night:
+"If you're not using AI, you're going to lose your job to somebody who uses AI."
+Not might. Will.
+The jobs aren't disappearing. They're transforming.
+Companies will still need people. 
+But not 50 people doing manual work. 
+They'll need 5 people who know how to run the AI that does the work of 50.
+Fewer people. Higher skills. 10x the output.
+
+So here's the real question:
+Every major tech revolution had a window.
+The internet - 1995 to 2005. 
+Mobile - 2008 to 2015. 
+Social media - 2012 to 2018.
+
+The people who moved early during those windows built generational wealth.
+AI's window is open right now. 
+And based on what Jensen is seeing from the inside - it's closing faster than any of them.
+The question isn't whether AI will create millionaires.
+It's whether you'll be one of them or one of the people wondering what happened.
+
+P.S. Jensen also said he's created more billionaires on his management team than any CEO in the world. When the man who mints billionaires tells you where the next wave of wealth is coming from - you listen.
+
+--- POST 50 | 2026-03-05 | TEXT ---
+LIKES: 202 | COMMENTS: 53 | SHARES: 0
+URL: https://www.linkedin.com/posts/vaibhavsisinty_openai-just-did-the-one-thing-sam-altman-activity-7435198438746718208-3Txt
+TEXT: OpenAI just did the one thing Sam Altman swore he'd never do. 
+And nobody is talking about why.
+
+This isn't a pivot. It's a confession.
+
+Here's what the last 6 months actually look like for the most funded AI company in history:
+→ $14 billion loss projected for 2026. Three times worse than estimated.
+→ Traffic falling for a full year straight.
+→ Apple dropped them. Salesforce dropped them. Both went to Gemini.
+→ GPT-5 didn't leap the curve. The scaling law broke around GPT-4.
+→ Microsoft — their closest partner — is now publicly building to be self-sufficient.
+→ Blue Owl just pulled out of a $10 billion data center deal.
+
+And yet somehow, the plan requires $100 billion in revenue by 2029.
+That's Nvidia territory. For a company burning $44 billion to get there.
+
+Here's the part nobody wants to say out loud:
+OpenAI may have been a distribution company masquerading as a research company.
+They took transformer architecture Google built. 
+Scaled it. Shipped it first. Won the narrative.
+But narrative isn't a moat when Google has $86 billion in quarterly cash flow and the original researchers.
+When DeepSeek ships comparable performance for a fraction of the cost.
+When open-source is closing the gap every quarter.
+
+The scaling hypothesis was the entire thesis,
+ More compute, smarter models, winner takes all.
+That thesis is cracking.
+And when the core thesis of a trillion-dollar bet starts cracking, 
+no amount of Sam Altman on stage changes the math.
+
+The real question isn't whether OpenAI survives.
+It's whether the AI space has a winner-takes-all structure at all or whether it becomes infrastructure. 
+Commodity. Margin-free.
+
+If it does, the companies that win won't be the ones with the best models.
+They'll be the ones that own the distribution, the hardware, or the data.
+
+OpenAI owns none of those cleanly.
+Google owns all three.

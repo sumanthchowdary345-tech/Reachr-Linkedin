@@ -1,0 +1,14 @@
+posts\raw-data\add_image_descriptions.py
+CLAUDE.md
+plans\reachr-master-document.md
+plans\session-handoff.md
+posts\creator-research-jasmin-alic-april2026.md
+posts\creator-research-justin-welsh-april2026.md
+posts\creator-research-sop.md
+posts\creator-research-vaibhav-sisinty-april2026.md
+posts\creator-urls.md
+posts\raw-data\jasmin-alic-youtube-interviews-urls.txt
+posts\raw-data\justin-welsh-newsletter-urls.txt
+posts\raw-data\justin-welsh-youtube-top20-urls.txt
+posts\raw-data\vaibhav-sisinty-linkedin-formatted.txt
+posts\raw-data\vaibhav-sisinty-top50-youtube-urls.txt

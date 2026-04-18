@@ -1,0 +1,23 @@
+# Superpowers plugin internals — 42MB, not project files
+.agents/
+
+# Local Claude Code settings (symlinks, hooks, lock files — machine-specific)
+.claude/
+
+# Playwright browser session logs — not project data
+.playwright-cli/
+
+# Environment variables — never commit keys
+.env
+.env.*
+*.env
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows temp files
+*.tmp
+*.bak
+~$*

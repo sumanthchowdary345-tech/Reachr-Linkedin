@@ -1,0 +1,3552 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Go-To-Market and Outreach",
+      "x": 0,
+      "y": 0,
+      "width": 1100,
+      "height": 1020,
+      "color": "1"
+    },
+    {
+      "id": "n_master_connector_list",
+      "type": "file",
+      "file": "graphify/obsidian/10-Person Connector List Strategy.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_api_rollout",
+      "type": "file",
+      "file": "graphify/obsidian/API Rollout Schedule.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_apollo_io",
+      "type": "file",
+      "file": "graphify/obsidian/Apollo.io \u2014 Lead Intelligence Tool.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_beta_offer",
+      "type": "file",
+      "file": "graphify/obsidian/Beta Offer \u2014 50K Views, \u20b90 Upfront, \u20b95001K views.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_handoff_completed_work",
+      "type": "file",
+      "file": "graphify/obsidian/Completed Work \u2014 LinkedIn Audit, GTM Strategy, Dashboard Design.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_content_dashboard",
+      "type": "file",
+      "file": "graphify/obsidian/Content Dashboard \u2014 7 Modules.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_content_coordinates_sales",
+      "type": "file",
+      "file": "graphify/obsidian/Content-Sales Coordination Layer.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_discovery_call_script",
+      "type": "file",
+      "file": "graphify/obsidian/Discovery Call Script \u2014 4 Questions + SPIN Framework.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_automation_stack",
+      "type": "file",
+      "file": "graphify/obsidian/Full Automation Stack \u2014 Tier 123 + Apify Actors.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_gtm_sequence",
+      "type": "file",
+      "file": "graphify/obsidian/GTM Sequence \u2014 Clippers \u2192 Connectors \u2192 Warm Network \u2192 Cold Outreach.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_icp_primary",
+      "type": "file",
+      "file": "graphify/obsidian/ICP Primary \u2014 D2C Founders \u20b950L\u2013\u20b95Crmonth.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_instantly_ai",
+      "type": "file",
+      "file": "graphify/obsidian/Instantly.ai \u2014 Cold Email Sequence Tool.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_meta_ad_library",
+      "type": "file",
+      "file": "graphify/obsidian/Meta Ad Library API \u2014 Brand Qualifier.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_big_reframe",
+      "type": "file",
+      "file": "graphify/obsidian/Most Important Reframe \u2014 Get Customers First, Content Amplifies Sales.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_outreach_pipeline_crm",
+      "type": "file",
+      "file": "graphify/obsidian/Outreach Pipeline CRM \u2014 Stages Identified \u2192 Paying.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_handoff_pending_actions",
+      "type": "file",
+      "file": "graphify/obsidian/Pending Actions \u2014 Priority Order.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_beachhead_beauty_skincare",
+      "type": "file",
+      "file": "graphify/obsidian/Primary Beachhead \u2014 BeautySkincare \u20b950L\u2013\u20b92Crmonth.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_clippers_first_rationale",
+      "type": "file",
+      "file": "graphify/obsidian/Rationale Clippers Before Brands (Chicken-and-Egg).md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_sales_led_rationale",
+      "type": "file",
+      "file": "graphify/obsidian/Rationale Sales-Led Primary Over Content-Led.md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_supabase",
+      "type": "file",
+      "file": "graphify/obsidian/Supabase MCP \u2014 Database Layer.md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_supabase_tables",
+      "type": "file",
+      "file": "graphify/obsidian/Supabase Tables Schema.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_two_track_gtm",
+      "type": "file",
+      "file": "graphify/obsidian/Two-Track GTM \u2014 Direct Sales (Primary) + Content Authority (Supporting).md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_vercel",
+      "type": "file",
+      "file": "graphify/obsidian/Vercel MCP \u2014 Hosting Layer.md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_whatsapp_channel_strategy",
+      "type": "file",
+      "file": "graphify/obsidian/WhatsApp as Highest-Conversion Channel.md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_workflow_c",
+      "type": "file",
+      "file": "graphify/obsidian/Workflow C \u2014 Brand Outreach Pipeline.md",
+      "x": 20,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Creator Research Pipeline",
+      "x": 1180,
+      "y": 0,
+      "width": 1100,
+      "height": 920,
+      "color": "2"
+    },
+    {
+      "id": "n_master_6tension_hook_types",
+      "type": "file",
+      "file": "graphify/obsidian/6 Hook Tension Types.md",
+      "x": 1200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_apify_actor_linkedin",
+      "type": "file",
+      "file": "graphify/obsidian/Apify Actor harvestapilinkedin-profile-posts.md",
+      "x": 1400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_apify_actor_youtube_transcripts",
+      "type": "file",
+      "file": "graphify/obsidian/Apify Actor karameloyoutube-full-channel-transcripts-extractor.md",
+      "x": 1600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_apify_actor_youtube_scraper",
+      "type": "file",
+      "file": "graphify/obsidian/Apify Actor streamersyoutube-channel-scraper.md",
+      "x": 1200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_apify_mcp",
+      "type": "file",
+      "file": "graphify/obsidian/Apify MCP \u2014 LinkedIn Post Scraping.md",
+      "x": 1400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_creator_research_pipeline",
+      "type": "file",
+      "file": "graphify/obsidian/Creator Research Pipeline (notebooklm + Apify).md",
+      "x": 1600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_creator_research_sop",
+      "type": "file",
+      "file": "graphify/obsidian/Creator Research SOP.md",
+      "x": 1200,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rawdata_jasmin_interview_urls",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Alic Interview Videos (15 URLs for notebooklm).md",
+      "x": 1400,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_urls_jasmin_alic",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Alic \u2014 Creator URLs (YouTube + LinkedIn).md",
+      "x": 1600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_jasmin_alic_creator",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Alic \u2014 LinkedIn Hook & Structure Expert.md",
+      "x": 1200,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rawdata_justin_newsletter_urls",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Newsletter URLs (40 articles).md",
+      "x": 1400,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rawdata_justin_youtube_top20",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh YouTube Top 20 Video URLs.md",
+      "x": 1600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_urls_justin_welsh",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh \u2014 Creator URLs (YouTube + LinkedIn).md",
+      "x": 1200,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_justin_welsh_creator",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh \u2014 LinkedIn 0\u2192100K Growth Creator.md",
+      "x": 1400,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_notebooklm",
+      "type": "file",
+      "file": "graphify/obsidian/NotebookLM \u2014 Creator Research Tool.md",
+      "x": 1600,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_post_quality_rules",
+      "type": "file",
+      "file": "graphify/obsidian/Post Quality Rules \u2014 Hook, Structure, CTA.md",
+      "x": 1200,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_skill_daily_planner",
+      "type": "file",
+      "file": "graphify/obsidian/Skill linkedin-daily-planner.md",
+      "x": 1400,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_spiky_pov_requirement",
+      "type": "file",
+      "file": "graphify/obsidian/Spiky POV Requirement.md",
+      "x": 1600,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rawdata_vaibhav_youtube_top50",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Sisinty Top 50 YouTube URLs.md",
+      "x": 1200,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_urls_vaibhav_sisinty",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Sisinty \u2014 Creator URLs (YouTube + LinkedIn).md",
+      "x": 1400,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_vaibhav_sisinty_creator",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Sisinty \u2014 Indian LinkedIn Growth Hacker.md",
+      "x": 1600,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_workflow_b",
+      "type": "file",
+      "file": "graphify/obsidian/Workflow B \u2014 Weekly Planning.md",
+      "x": 1200,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_workflow_d",
+      "type": "file",
+      "file": "graphify/obsidian/Workflow D \u2014 Campaign Execution Pipeline.md",
+      "x": 1400,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Content Evolution and CTA Patterns",
+      "x": 2360,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "3"
+    },
+    {
+      "id": "n_vaibhav_sisinty_research_document",
+      "type": "file",
+      "file": "graphify/obsidian/Creator Research Vaibhav Sisinty \u2014 April 2026.md",
+      "x": 2380,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_content_evolution_rehook",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Content Evolution \u2014 Re-Hook System Origin.md",
+      "x": 2580,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_story_quit_twice",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Story \u2014 Quit LinkedIn Twice (2020 + 2021).md",
+      "x": 2780,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_cta_ps_bombshell",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh CTA3 \u2014 P.S. Bombshell (story resolution).md",
+      "x": 2380,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_question_l8_content_evolution",
+      "type": "file",
+      "file": "graphify/obsidian/L8 \u2014 Content Evolution Question (Creator-Specific Modifier).md",
+      "x": 2580,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_post_structure_6beat",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav 6-Beat LinkedIn Post Structure.md",
+      "x": 2780,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_access_content_system",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Access Content System \u2014 Access + Insight Combo.md",
+      "x": 2380,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_cta_participation",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav CTA Type 1 \u2014 Participation CTA (Should I post this).md",
+      "x": 2580,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_cta_ps_bombshell",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav CTA Type 2 \u2014 P.S. Bombshell.md",
+      "x": 2780,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_contrarian_pov_ai_replaces_knowledge_work",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Core Contrarian POV \u2014 AI Replaces Knowledge Work Before Physical.md",
+      "x": 2380,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_early_stage_tactics",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Early-Stage Tactics \u2014 First 90 Days Strategy.md",
+      "x": 2580,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_hook_high_stakes_financial",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Hook Pattern 1 \u2014 High-Stakes Financial Impact.md",
+      "x": 2780,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_hook_secret_unknown_tool",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Hook Pattern 2 \u2014 SecretUnknown Tool (FOMO).md",
+      "x": 2380,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_hook_shocking_ai_feat",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Hook Pattern 3 \u2014 Shocking AI Feat.md",
+      "x": 2580,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_hook_tech_giant_drama",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Hook Pattern 4 \u2014 Tech Giant Drama.md",
+      "x": 2780,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_hook_relatable_pain_cost_saving",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Hook Pattern 5 \u2014 Relatable Pain & Cost Saving.md",
+      "x": 2380,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_hook_urgency_while_sleeping",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Hook Pattern 6 \u2014 Urgency  While You Were Sleeping.md",
+      "x": 2580,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_post_pattern_tech_explainer",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Post Pattern \u2014 Deep Tech Explainer (Long-form with image validation).md",
+      "x": 2780,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_post_pattern_shock_short",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Post Pattern \u2014 Short Shock Post with Community CTA.md",
+      "x": 2380,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_post_pattern_news_breakdown",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Post Pattern \u2014 Weekly AI News Breakdown with Arrow Bullets.md",
+      "x": 2580,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_raw_data_linkedin",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Sisinty \u2014 LinkedIn Posts Raw Data (50 posts, Feb\u2013Apr 2026).md",
+      "x": 2780,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "90-Day Growth Strategy",
+      "x": 3540,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "4"
+    },
+    {
+      "id": "n_claude_90day_strategy",
+      "type": "file",
+      "file": "graphify/obsidian/90-Day Growth Strategy.md",
+      "x": 3560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_90day_operating_plan",
+      "type": "file",
+      "file": "graphify/obsidian/90-Day Operating Plan \u2014 Days 1\u201330, 31\u201360, 61\u201390.md",
+      "x": 3760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_icp_secondary",
+      "type": "file",
+      "file": "graphify/obsidian/ICP Secondary \u2014 Clippers and Small Creators.md",
+      "x": 3960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_icp_tertiary",
+      "type": "file",
+      "file": "graphify/obsidian/ICP Tertiary \u2014 Monetizing CreatorsYouTubers.md",
+      "x": 3560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_linkedin_state",
+      "type": "file",
+      "file": "graphify/obsidian/LinkedIn Current State \u2014 April 2026.md",
+      "x": 3760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_metric_hierarchy",
+      "type": "file",
+      "file": "graphify/obsidian/LinkedIn Metric Hierarchy \u2014 Comments First.md",
+      "x": 3960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_personal_brand",
+      "type": "file",
+      "file": "graphify/obsidian/Personal Brand Architecture \u2014 India's Content Distribution Guy.md",
+      "x": 3560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_network_growth_pillar",
+      "type": "file",
+      "file": "graphify/obsidian/Pillar 1 \u2014 Network Growth (15\u201320 requestsday).md",
+      "x": 3760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_content_pillar",
+      "type": "file",
+      "file": "graphify/obsidian/Pillar 2 \u2014 Weekly Content Rhythm.md",
+      "x": 3960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_comment_strategy_pillar",
+      "type": "file",
+      "file": "graphify/obsidian/Pillar 3 \u2014 Comment Strategy and Conversion.md",
+      "x": 3560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_rationale_comments_over_impressions",
+      "type": "file",
+      "file": "graphify/obsidian/Rationale Prioritize comments over impressions.md",
+      "x": 3760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_rationale_reduce_posting",
+      "type": "file",
+      "file": "graphify/obsidian/Rationale Reduce posting to 4\u20135xweek.md",
+      "x": 3960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_master_reachr_product",
+      "type": "file",
+      "file": "graphify/obsidian/Reachr Product Mechanics (How It Works).md",
+      "x": 3560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_reachr",
+      "type": "file",
+      "file": "graphify/obsidian/Reachr \u2014 Performance Distribution Platform.md",
+      "x": 3760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_seeaash",
+      "type": "file",
+      "file": "graphify/obsidian/Seeaash \u2014 Indian D2C Brand (Highest Impression Post).md",
+      "x": 3960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_handoff_session_context",
+      "type": "file",
+      "file": "graphify/obsidian/Session Handoff \u2014 Compressed Context Document.md",
+      "x": 3560,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_sumanth_gude",
+      "type": "file",
+      "file": "graphify/obsidian/Sumanth Chowdary Gude.md",
+      "x": 3760,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_whop_content_rewards",
+      "type": "file",
+      "file": "graphify/obsidian/Whop Content Rewards Model.md",
+      "x": 3960,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_zero_comments_problem",
+      "type": "file",
+      "file": "graphify/obsidian/Zero Comments Core Problem.md",
+      "x": 3560,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Creator Research Deliverables",
+      "x": 4720,
+      "y": 0,
+      "width": 1100,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "n_creator_research_sop_d1_hook_formula_bank",
+      "type": "file",
+      "file": "graphify/obsidian/Deliverable 1 \u2014 Hook Formula Bank.md",
+      "x": 4740,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_d2_cta_bank",
+      "type": "file",
+      "file": "graphify/obsidian/Deliverable 2 \u2014 CTA Bank.md",
+      "x": 4940,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_d3_contrarian_pov_library",
+      "type": "file",
+      "file": "graphify/obsidian/Deliverable 3 \u2014 Core Contrarian POV Library.md",
+      "x": 5140,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_d4_post_structure_blueprint",
+      "type": "file",
+      "file": "graphify/obsidian/Deliverable 4 \u2014 Post + Script Structure Blueprint.md",
+      "x": 4740,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_d5_personal_story_bank",
+      "type": "file",
+      "file": "graphify/obsidian/Deliverable 5 \u2014 Personal Story Bank.md",
+      "x": 4940,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_d6_untapped_topic_list",
+      "type": "file",
+      "file": "graphify/obsidian/Deliverable 6 \u2014 Untapped Topic List.md",
+      "x": 5140,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_d7_forbidden_patterns",
+      "type": "file",
+      "file": "graphify/obsidian/Deliverable 7 \u2014 Forbidden Patterns.md",
+      "x": 4740,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_cta_yes_no_binary",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 CTA \u2014 YesNo Binary (Zero Cognitive Load).md",
+      "x": 4940,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_contrarian_pov_commenting_over_posting",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Core Contrarian POV \u2014 90% Growth from Commenting, Not Posting.md",
+      "x": 5140,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_pov_inbound_sales_illusion",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 POV \u2014 Inbound Sales Illusion (Viral \u2260 Sales).md",
+      "x": 4740,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_pov_vanity_metric_shift",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 POV \u2014 Vanity Metric Shift (Comments  Impressions).md",
+      "x": 4940,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_pov_visibility_paradox",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 POV \u2014 Visibility Paradox (Commenting  Posting for Reach).md",
+      "x": 5140,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_template_visibility_paradox",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Script Template 1 \u2014 Visibility Paradox.md",
+      "x": 4740,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_step5_deliverables",
+      "type": "file",
+      "file": "graphify/obsidian/SOP Step 5 \u2014 Extract 7 Deliverables.md",
+      "x": 4940,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_step6_save_file",
+      "type": "file",
+      "file": "graphify/obsidian/SOP Step 6 \u2014 Save Research File.md",
+      "x": 5140,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_cta_yes_no_opinion",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav CTA Type 3 \u2014 YesNo Opinion Question.md",
+      "x": 4740,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_forbidden_patterns",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Forbidden Patterns \u2014 What NOT to Do.md",
+      "x": 4940,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Justin Welsh Contrarian POVs",
+      "x": 5900,
+      "y": 0,
+      "width": 1100,
+      "height": 720,
+      "color": "6"
+    },
+    {
+      "id": "n_creator_research_sop_sop_document",
+      "type": "file",
+      "file": "graphify/obsidian/Creator Research SOP \u2014 From Name to Deliverables.md",
+      "x": 5920,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_welsh_research_document",
+      "type": "file",
+      "file": "graphify/obsidian/Creator Research Justin Welsh \u2014 April 2026.md",
+      "x": 6120,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_cta_personal_painful_truth",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh CTA1 \u2014 Personal Painful Truth Ask (500+ replies).md",
+      "x": 6320,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_cta_hard_landing",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh CTA4 \u2014 Hard Landing (mic-drop ending).md",
+      "x": 5920,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_contrarian_pov_pursuit_of_more",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Core Contrarian POV \u2014 Pursuit of MORE Destroys What You're Building.md",
+      "x": 6120,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_forbidden_patterns",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Forbidden Patterns \u2014 6 What-NOT-to-Do Rules.md",
+      "x": 6320,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_hook_bizarre_absurd",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Hook H1 \u2014 BizarreAbsurd Opening.md",
+      "x": 5920,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_hook_paradoxical_confession",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Hook H2 \u2014 Paradoxical Confession.md",
+      "x": 6120,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_hook_discarded_best_practice",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Hook H3 \u2014 Discarded Best Practice.md",
+      "x": 6320,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_hook_universal_callout",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Hook H4 \u2014 Universal Call-Out.md",
+      "x": 5920,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_post_structure_newsletter",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Newsletter Structure \u2014 Story\u2192Contrast\u2192Lesson (3 Beats).md",
+      "x": 6120,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_story_burnout_911",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Story \u2014 Startup Executive & Burnout (The 911 Call).md",
+      "x": 6320,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_contrarian_anti_scale",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Sub-POV \u2014 Anti-Scale (Enough is a Decision).md",
+      "x": 5920,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_contrarian_no_one_coming",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Sub-POV \u2014 No One Is Coming to Save You.md",
+      "x": 6120,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_contrarian_viral_useless",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Sub-POV \u2014 Viral Content is Useless.md",
+      "x": 6320,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_post_structure_video_interview",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Video Interview Structure \u2014 Cold Open\u2192Rock-Bottom\u2192Framework\u2192Reassurance.md",
+      "x": 5920,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vaibhav_cta_hard_landing",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav CTA Type 4 \u2014 Hard Landing (No CTA).md",
+      "x": 6120,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Jasmin Alic Framework",
+      "x": 7080,
+      "y": 0,
+      "width": 880,
+      "height": 720,
+      "color": "1"
+    },
+    {
+      "id": "n_jasmin_alic_research_document",
+      "type": "file",
+      "file": "graphify/obsidian/Creator Research Jasmin (Jay) Ali\u0107 \u2014 April 2026.md",
+      "x": 7100,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_divergence_table_all_three",
+      "type": "file",
+      "file": "graphify/obsidian/Divergence Table \u2014 Jasmin Ali\u0107 vs Vaibhav Sisinty vs Justin Welsh.md",
+      "x": 7300,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_divergence_vs_vaibhav",
+      "type": "file",
+      "file": "graphify/obsidian/Divergence Table \u2014 Justin Welsh vs Vaibhav Sisinty.md",
+      "x": 7500,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_1_3_1_rhythm",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 1-3-1 Rhythm (Retention Architecture).md",
+      "x": 7100,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_5step_argument_sequence",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 5-Step Argument Sequence (Paradox\u2192Reframe\u2192Alternative\u2192Evidence\u2192Liberation).md",
+      "x": 7300,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_post_structure_6beat",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 6-Beat Post Structure (Broad Hook \u2192 Empty Space \u2192 Re-Hook \u2192 Signpost \u2192 Niche Lesson \u2192 Simple Prompt).md",
+      "x": 7500,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_emotional_arc_6stage",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 6-Stage Emotional Arc (Pattern Interrupt \u2192 Universal \u2192 Trust \u2192 Niche \u2192 CTA \u2192 Exhale).md",
+      "x": 7100,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_cadence_rules",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Cadence Rules (Max 4xweek, 1230 PM manual, 50+ commentsday before posting).md",
+      "x": 7300,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_forbidden_patterns",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Forbidden Patterns \u2014 8 What-NOT-to-Do Rules.md",
+      "x": 7500,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_hook_kill_the_niche",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Hook \u2014 Kill the Niche.md",
+      "x": 7100,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_hook_opposing_statement",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Hook \u2014 Opposing Statement Pattern.md",
+      "x": 7300,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_immediate_applications",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Key Takeaways for Sumanth \u2014 Immediate Application Rules.md",
+      "x": 7500,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_narrator_persona_mad_scientist",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Narrator Persona \u2014 Mad Scientist  Open-Book Teacher  Behavioral Psychologist.md",
+      "x": 7100,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_template_kill_the_niche",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Script Template 2 \u2014 Kill the Niche.md",
+      "x": 7300,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_three_line_rule",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Three-Line Rule (Hook + Empty Space + Re-Hook).md",
+      "x": 7500,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_justin_argument_3step_sequence",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh 3-Step Argument Sequence (Validate \u2192 Expose \u2192 Reframe).md",
+      "x": 7100,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "LinkedIn Skills Workflow",
+      "x": 8040,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "n_master_linkedin_newsletter_post",
+      "type": "file",
+      "file": "graphify/obsidian/LinkedIn Newsletter Post (Produced, Humanized, Ready).md",
+      "x": 8060,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_skill_humanizer",
+      "type": "file",
+      "file": "graphify/obsidian/Skill humanizer.md",
+      "x": 8260,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_skill_linkedin_methodology",
+      "type": "file",
+      "file": "graphify/obsidian/Skill linkedin-content-methodology.md",
+      "x": 8460,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_skill_reviewer",
+      "type": "file",
+      "file": "graphify/obsidian/Skill linkedin-post-reviewer.md",
+      "x": 8060,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_skill_script_analyst",
+      "type": "file",
+      "file": "graphify/obsidian/Skill linkedin-post-script-analyst.md",
+      "x": 8260,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_skill_linkedin_writer",
+      "type": "file",
+      "file": "graphify/obsidian/Skill linkedin-post-writer.md",
+      "x": 8460,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_skills_superpowers",
+      "type": "file",
+      "file": "graphify/obsidian/Superpowers Plugin Skills Suite.md",
+      "x": 8060,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_workflow_a",
+      "type": "file",
+      "file": "graphify/obsidian/Workflow A \u2014 Daily LinkedIn Post Pipeline.md",
+      "x": 8260,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_workflow_f",
+      "type": "file",
+      "file": "graphify/obsidian/Workflow F \u2014 Case Study Pipeline.md",
+      "x": 8460,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "SOP Safeguards and Source Discovery",
+      "x": 0,
+      "y": 1100,
+      "width": 660,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n_creator_research_sop_pause_point_1",
+      "type": "file",
+      "file": "graphify/obsidian/Pause Point 1 \u2014 Ask Before Using Interview Videos.md",
+      "x": 20,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_pause_point_2",
+      "type": "file",
+      "file": "graphify/obsidian/Pause Point 2 \u2014 Ask When LinkedIn Returns 0 Posts.md",
+      "x": 220,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_step0_preflight",
+      "type": "file",
+      "file": "graphify/obsidian/SOP Step 0 \u2014 Pre-Flight Checks.md",
+      "x": 420,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_step1_data_source_discovery",
+      "type": "file",
+      "file": "graphify/obsidian/SOP Step 1 \u2014 Data Source Discovery.md",
+      "x": 20,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_step2_apify_collection",
+      "type": "file",
+      "file": "graphify/obsidian/SOP Step 2 \u2014 Data Collection via Apify.md",
+      "x": 220,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_step3_notebooklm_setup",
+      "type": "file",
+      "file": "graphify/obsidian/SOP Step 3 \u2014 NotebookLM Notebook Setup.md",
+      "x": 420,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_step4_research_questions",
+      "type": "file",
+      "file": "graphify/obsidian/SOP Step 4 \u2014 Research Questions (22 total).md",
+      "x": 20,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_creator_research_sop_source_inventory",
+      "type": "file",
+      "file": "graphify/obsidian/Source Inventory Template (Step 1d).md",
+      "x": 220,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Indian D2C Ecosystem",
+      "x": 1180,
+      "y": 1100,
+      "width": 660,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_master_borrowed_audience_framework",
+      "type": "file",
+      "file": "graphify/obsidian/Borrowed Audience Framework \u2014 Brandjack, Namejack, Trending.md",
+      "x": 1200,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_mamaearth",
+      "type": "file",
+      "file": "graphify/obsidian/Mamaearth \u2014 Indian D2C Brand Reference.md",
+      "x": 1400,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_nikhil_kamath",
+      "type": "file",
+      "file": "graphify/obsidian/Nikhil Kamath \u2014 Indian Creator (ICP Follows).md",
+      "x": 1600,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_raj_shamani",
+      "type": "file",
+      "file": "graphify/obsidian/Raj Shamani \u2014 Indian Creator (ICP Follows).md",
+      "x": 1200,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_snitch",
+      "type": "file",
+      "file": "graphify/obsidian/Snitch \u2014 Indian D2C Brand (\u20b9900 Cr Brandjack).md",
+      "x": 1400,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "Kallaway Research",
+      "x": 2360,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_creator_urls_kallaway",
+      "type": "file",
+      "file": "graphify/obsidian/Kallaway \u2014 Creator URLs (YouTube + LinkedIn).md",
+      "x": 2380,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_kallaway_creator",
+      "type": "file",
+      "file": "graphify/obsidian/Kallaway \u2014 Short Video Script Creator.md",
+      "x": 2580,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Lara Acosta Research",
+      "x": 3540,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_creator_urls_lara_acosta",
+      "type": "file",
+      "file": "graphify/obsidian/Lara Acosta \u2014 Creator URLs (YouTube + LinkedIn).md",
+      "x": 3560,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_lara_acosta_creator",
+      "type": "file",
+      "file": "graphify/obsidian/Lara Acosta \u2014 Founder Personal Brand Builder.md",
+      "x": 3760,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "Jasmin Anti-Gatekeeping POV",
+      "x": 4720,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_jasmin_pov_anti_gatekeeping",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 POV \u2014 Anti-Gatekeeping Paradox (Give 100% Free).md",
+      "x": 4740,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jasmin_template_100pct_free_trust",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Script Template 5 \u2014 100% Free Trust Accelerator.md",
+      "x": 4940,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g13",
+      "type": "group",
+      "label": "Vaibhav Hook Patterns",
+      "x": 5900,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_posts_raw_data_add_image_descriptions_py",
+      "type": "file",
+      "file": "graphify/obsidian/add_image_descriptions.py.md",
+      "x": 5920,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g14",
+      "type": "group",
+      "label": "Post Structure Rules",
+      "x": 7080,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_claude_workflow_e",
+      "type": "file",
+      "file": "graphify/obsidian/Workflow E \u2014 Clipper Recruitment Pipeline.md",
+      "x": 7100,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g15",
+      "type": "group",
+      "label": "Apify Actors",
+      "x": 8040,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_claude_decision_log",
+      "type": "file",
+      "file": "graphify/obsidian/Decisions Made \u2014 April 2026 Log.md",
+      "x": 8060,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g16",
+      "type": "group",
+      "label": "Reachr Business Model",
+      "x": 0,
+      "y": 1600,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_claude_process_stages",
+      "type": "file",
+      "file": "graphify/obsidian/Process Stages \u2014 Foundation to Scale.md",
+      "x": 20,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g17",
+      "type": "group",
+      "label": "LinkedIn Growth Pillars",
+      "x": 1180,
+      "y": 1600,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_creator_research_sop_question_y3_retention_architecture",
+      "type": "file",
+      "file": "graphify/obsidian/Y3 \u2014 Mid-Video Retention Architecture (Creator-Specific Modifier).md",
+      "x": 1200,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g18",
+      "type": "group",
+      "label": "Creator Divergence Patterns",
+      "x": 2360,
+      "y": 1600,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_creator_research_sop_question_y5_topic_architecture",
+      "type": "file",
+      "file": "graphify/obsidian/Y5 \u2014 Topic Architecture and Series Design (Creator-Specific Modifier).md",
+      "x": 2380,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g19",
+      "type": "group",
+      "label": "Justin Welsh Hook Formulas",
+      "x": 3540,
+      "y": 1600,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_creator_research_sop_question_y11_untapped_adjacency",
+      "type": "file",
+      "file": "graphify/obsidian/Y11 \u2014 Untapped Topic Adjacency (Always Add D2C Reframe).md",
+      "x": 3560,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g20",
+      "type": "group",
+      "label": "Vaibhav Story Bank",
+      "x": 4720,
+      "y": 1600,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_creator_research_sop_error_handling",
+      "type": "file",
+      "file": "graphify/obsidian/SOP Error Handling Reference Table.md",
+      "x": 4740,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g21",
+      "type": "group",
+      "label": "Cold Outreach Tools",
+      "x": 5900,
+      "y": 1600,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_vaibhav_cta_what_would_you_do",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav CTA Type 5 \u2014 What Would You Do  Preference CTA.md",
+      "x": 5920,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g22",
+      "type": "group",
+      "label": "UGC Campaign Execution",
+      "x": 7080,
+      "y": 1600,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_vaibhav_cta_community_funnel",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav CTA Type 6 \u2014 Community Funnel (WhatsApp link).md",
+      "x": 7100,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g23",
+      "type": "group",
+      "label": "Content Metrics Hierarchy",
+      "x": 8040,
+      "y": 1600,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_vaibhav_cta_reverse_challenge",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav CTA Type 7 \u2014 Reverse Challenge  Proof Invitation.md",
+      "x": 8060,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g24",
+      "type": "group",
+      "label": "Personal Brand Architecture",
+      "x": 0,
+      "y": 2080,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_vaibhav_insight_participation_cta",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Insight 1 \u2014 Should I Drop It CTA Effectiveness.md",
+      "x": 20,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g25",
+      "type": "group",
+      "label": "Jasmin Hook Formulas",
+      "x": 1180,
+      "y": 2080,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_vaibhav_insight_ps_bombshells",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Insight 2 \u2014 P.S. Bombshells as Secret Weapon.md",
+      "x": 1200,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g26",
+      "type": "group",
+      "label": "YouTube Analysis Questions",
+      "x": 2360,
+      "y": 2080,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_vaibhav_insight_macro_fear_indian_context",
+      "type": "file",
+      "file": "graphify/obsidian/Vaibhav Insight 3 \u2014 Macro Fear + Specific Indian Context Formula.md",
+      "x": 2380,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g27",
+      "type": "group",
+      "label": "Vaibhav YouTube Strategy",
+      "x": 3540,
+      "y": 2080,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_justin_hook_lifestyle_flex",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Hook H5 \u2014 Lifestyle Flex.md",
+      "x": 3560,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g28",
+      "type": "group",
+      "label": "Session Memory System",
+      "x": 4720,
+      "y": 2080,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_justin_hook_massive_wealth_zero_overhead",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Hook H6 \u2014 Massive Wealth + Zero Overhead Formula.md",
+      "x": 4740,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g29",
+      "type": "group",
+      "label": "LinkedIn Post Quality Rules",
+      "x": 5900,
+      "y": 2080,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_justin_hook_trauma_to_wealth",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Hook H7 \u2014 Trauma-to-Wealth Cold Open.md",
+      "x": 5920,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g30",
+      "type": "group",
+      "label": "Clipper Recruitment",
+      "x": 7080,
+      "y": 2080,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_justin_hook_hyper_specific_metric",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Hook H8 \u2014 Hyper-Specific Metric as First Words.md",
+      "x": 7100,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g31",
+      "type": "group",
+      "label": "Vaibhav Contrarian POVs",
+      "x": 8040,
+      "y": 2080,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_justin_cta_which_side",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh CTA2 \u2014 Which Side Opinion Ask.md",
+      "x": 8060,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g32",
+      "type": "group",
+      "label": "Creator Research Modifiers",
+      "x": 0,
+      "y": 2560,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_justin_cta_deferred_product",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh CTA5 \u2014 Deferred Product Offer.md",
+      "x": 20,
+      "y": 2640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g33",
+      "type": "group",
+      "label": "Brand Case Studies",
+      "x": 1180,
+      "y": 2560,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_justin_story_terrible_employee",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Story \u2014 Terrible Employee (Fired Before 28).md",
+      "x": 1200,
+      "y": 2640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g34",
+      "type": "group",
+      "label": "Justin Welsh Story Bank",
+      "x": 2360,
+      "y": 2560,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_justin_story_clueless_solopreneur",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Story \u2014 Clueless Early Solopreneur ($200Hour Mistake).md",
+      "x": 2380,
+      "y": 2640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g35",
+      "type": "group",
+      "label": "Supabase Dashboard",
+      "x": 3540,
+      "y": 2560,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_justin_insight_story_ratio",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Insight 1 \u2014 Story Ratio is the Biggest Lever.md",
+      "x": 3560,
+      "y": 2640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g36",
+      "type": "group",
+      "label": "Reachr Positioning",
+      "x": 4720,
+      "y": 2560,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_justin_insight_cta_confessional",
+      "type": "file",
+      "file": "graphify/obsidian/Justin Welsh Insight 2 \u2014 CTA as Confessional Prompt Not Question.md",
+      "x": 4740,
+      "y": 2640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g37",
+      "type": "group",
+      "label": "Creator Queue Status",
+      "x": 5900,
+      "y": 2560,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_jasmin_emotional_driver_invisible_failure",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Emotional Driver \u2014 Fear of Invisible Failure.md",
+      "x": 5920,
+      "y": 2640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g38",
+      "type": "group",
+      "label": "LinkedIn LinkedIn Meta Content",
+      "x": 7080,
+      "y": 2560,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_jasmin_hook_signposting",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Hook \u2014 Signposting (Authority via Lived Proof).md",
+      "x": 7100,
+      "y": 2640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g39",
+      "type": "group",
+      "label": "Workflow Map Skills",
+      "x": 8040,
+      "y": 2560,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_jasmin_hook_bold_promise",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Hook \u2014 Bold Promise + Objection Crusher.md",
+      "x": 8060,
+      "y": 2640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g40",
+      "type": "group",
+      "label": "Post History Scoring",
+      "x": 0,
+      "y": 3040,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_jasmin_hook_transparent_process",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Hook \u2014 Transparent Process.md",
+      "x": 20,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g41",
+      "type": "group",
+      "label": "Outreach Sequence Tools",
+      "x": 1180,
+      "y": 3040,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_jasmin_dear_son_clarity_filter",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Dear Son Secret \u2014 Clarity Filter.md",
+      "x": 1200,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g42",
+      "type": "group",
+      "label": "Campaign Performance Tracking",
+      "x": 2360,
+      "y": 3040,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_jasmin_cta_quantity_number",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 CTA \u2014 QuantityNumber Self-Assessment.md",
+      "x": 2380,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g43",
+      "type": "group",
+      "label": "D2C Brand References",
+      "x": 3540,
+      "y": 3040,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_jasmin_cta_broad_choice",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 CTA \u2014 Broad Relatable Choice (A or B).md",
+      "x": 3560,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g44",
+      "type": "group",
+      "label": "Justin Welsh Newsletter Sources",
+      "x": 4720,
+      "y": 3040,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_jasmin_cta_completion_invitation",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 CTA \u2014 Completion Invitation (What Would You Add).md",
+      "x": 4740,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g45",
+      "type": "group",
+      "label": "Vaibhav LinkedIn Posts",
+      "x": 5900,
+      "y": 3040,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_jasmin_cta_personal_experience_ask",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 CTA \u2014 Personal Experience Ask (Shared Failure).md",
+      "x": 5920,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g46",
+      "type": "group",
+      "label": "Short Video Scripts",
+      "x": 7080,
+      "y": 3040,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_jasmin_story_the_rapper",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Story \u2014 The Rapper (Bosnian Origin).md",
+      "x": 7100,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g47",
+      "type": "group",
+      "label": "API Key Security",
+      "x": 8040,
+      "y": 3040,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_jasmin_story_the_teacher",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Story \u2014 The Teacher (English Teacher Escape).md",
+      "x": 8060,
+      "y": 3120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g48",
+      "type": "group",
+      "label": "Jasmin Forbidden Patterns",
+      "x": 0,
+      "y": 3520,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_jasmin_story_euro20k_rejection",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Story \u2014 \u20ac20KMonth Rejection (Financial Skin in Game for Authenticity).md",
+      "x": 20,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g49",
+      "type": "group",
+      "label": "Creator Research Notebook IDs",
+      "x": 1180,
+      "y": 3520,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_jasmin_template_authority_signpost",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Script Template 3 \u2014 Authority Signpost.md",
+      "x": 1200,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g50",
+      "type": "group",
+      "label": "Website and SEO Strategy",
+      "x": 2360,
+      "y": 3520,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_jasmin_template_opposing_rehook",
+      "type": "file",
+      "file": "graphify/obsidian/Jasmin Ali\u0107 Script Template 4 \u2014 Opposing Re-Hook (Cognitive Dissonance).md",
+      "x": 2380,
+      "y": 3600,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_claude_sumanth_gude_claude_reachr",
+      "fromNode": "n_claude_sumanth_gude",
+      "toNode": "n_claude_reachr",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_sumanth_gude_claude_personal_brand",
+      "fromNode": "n_claude_sumanth_gude",
+      "toNode": "n_claude_personal_brand",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_reachr_claude_whop_content_rewards",
+      "fromNode": "n_claude_reachr",
+      "toNode": "n_claude_whop_content_rewards",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_reachr_claude_icp_primary",
+      "fromNode": "n_claude_reachr",
+      "toNode": "n_claude_icp_primary",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_reachr_claude_icp_secondary",
+      "fromNode": "n_claude_reachr",
+      "toNode": "n_claude_icp_secondary",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_reachr_claude_icp_tertiary",
+      "fromNode": "n_claude_reachr",
+      "toNode": "n_claude_icp_tertiary",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_reachr_master_reachr_product",
+      "fromNode": "n_claude_reachr",
+      "toNode": "n_master_reachr_product",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_icp_primary_master_beachhead_beauty_skincare",
+      "fromNode": "n_claude_icp_primary",
+      "toNode": "n_master_beachhead_beauty_skincare",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_linkedin_state_claude_zero_comments_problem",
+      "fromNode": "n_claude_linkedin_state",
+      "toNode": "n_claude_zero_comments_problem",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_linkedin_state_handoff_session_context",
+      "fromNode": "n_claude_linkedin_state",
+      "toNode": "n_handoff_session_context",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_linkedin_state_entity_seeaash",
+      "fromNode": "n_claude_linkedin_state",
+      "toNode": "n_entity_seeaash",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_zero_comments_problem_claude_metric_hierarchy",
+      "fromNode": "n_claude_zero_comments_problem",
+      "toNode": "n_claude_metric_hierarchy",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_metric_hierarchy_claude_rationale_comments_over_impressions",
+      "fromNode": "n_claude_metric_hierarchy",
+      "toNode": "n_claude_rationale_comments_over_impressions",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_90day_strategy_claude_network_growth_pillar",
+      "fromNode": "n_claude_90day_strategy",
+      "toNode": "n_claude_network_growth_pillar",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_90day_strategy_claude_content_pillar",
+      "fromNode": "n_claude_90day_strategy",
+      "toNode": "n_claude_content_pillar",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_90day_strategy_claude_comment_strategy_pillar",
+      "fromNode": "n_claude_90day_strategy",
+      "toNode": "n_claude_comment_strategy_pillar",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_90day_strategy_master_90day_operating_plan",
+      "fromNode": "n_claude_90day_strategy",
+      "toNode": "n_master_90day_operating_plan",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_content_pillar_claude_rationale_reduce_posting",
+      "fromNode": "n_claude_content_pillar",
+      "toNode": "n_claude_rationale_reduce_posting",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_post_quality_rules_claude_spiky_pov_requirement",
+      "fromNode": "n_claude_post_quality_rules",
+      "toNode": "n_claude_spiky_pov_requirement",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_post_quality_rules_entity_jasmin_alic_creator",
+      "fromNode": "n_claude_post_quality_rules",
+      "toNode": "n_entity_jasmin_alic_creator",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_post_quality_rules_master_6tension_hook_types",
+      "fromNode": "n_claude_post_quality_rules",
+      "toNode": "n_master_6tension_hook_types",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_skills_superpowers_claude_skill_linkedin_methodology",
+      "fromNode": "n_claude_skills_superpowers",
+      "toNode": "n_claude_skill_linkedin_methodology",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_skills_superpowers_claude_skill_humanizer",
+      "fromNode": "n_claude_skills_superpowers",
+      "toNode": "n_claude_skill_humanizer",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_skill_linkedin_methodology_claude_workflow_a",
+      "fromNode": "n_claude_skill_linkedin_methodology",
+      "toNode": "n_claude_workflow_a",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_skill_linkedin_writer_claude_workflow_a",
+      "fromNode": "n_claude_skill_linkedin_writer",
+      "toNode": "n_claude_workflow_a",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_skill_script_analyst_claude_workflow_a",
+      "fromNode": "n_claude_skill_script_analyst",
+      "toNode": "n_claude_workflow_a",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_skill_reviewer_claude_workflow_a",
+      "fromNode": "n_claude_skill_reviewer",
+      "toNode": "n_claude_workflow_a",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_skill_humanizer_claude_workflow_a",
+      "fromNode": "n_claude_skill_humanizer",
+      "toNode": "n_claude_workflow_a",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_skill_daily_planner_claude_workflow_b",
+      "fromNode": "n_claude_skill_daily_planner",
+      "toNode": "n_claude_workflow_b",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_apify_mcp_claude_workflow_b",
+      "fromNode": "n_claude_apify_mcp",
+      "toNode": "n_claude_workflow_b",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_apify_mcp_claude_creator_research_pipeline",
+      "fromNode": "n_claude_apify_mcp",
+      "toNode": "n_claude_creator_research_pipeline",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_apify_mcp_master_automation_stack",
+      "fromNode": "n_claude_apify_mcp",
+      "toNode": "n_master_automation_stack",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_apify_mcp_entity_apify_actor_linkedin",
+      "fromNode": "n_claude_apify_mcp",
+      "toNode": "n_entity_apify_actor_linkedin",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_apify_mcp_entity_apify_actor_youtube_transcripts",
+      "fromNode": "n_claude_apify_mcp",
+      "toNode": "n_entity_apify_actor_youtube_transcripts",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_apify_mcp_entity_apify_actor_youtube_scraper",
+      "fromNode": "n_claude_apify_mcp",
+      "toNode": "n_entity_apify_actor_youtube_scraper",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_notebooklm_claude_creator_research_pipeline",
+      "fromNode": "n_claude_notebooklm",
+      "toNode": "n_claude_creator_research_pipeline",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_notebooklm_rawdata_jasmin_interview_urls",
+      "fromNode": "n_claude_notebooklm",
+      "toNode": "n_rawdata_jasmin_interview_urls",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_entity_apify_actor_youtube_transcripts",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_entity_apify_actor_youtube_transcripts",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_entity_apify_actor_linkedin",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_entity_apify_actor_linkedin",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_claude_creator_research_sop",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_claude_creator_research_sop",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_creator_urls_vaibhav_sisinty",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_creator_urls_vaibhav_sisinty",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_creator_urls_jasmin_alic",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_creator_urls_jasmin_alic",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_creator_urls_justin_welsh",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_creator_urls_justin_welsh",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_entity_vaibhav_sisinty_creator",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_entity_vaibhav_sisinty_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_entity_justin_welsh_creator",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_entity_justin_welsh_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_creator_research_pipeline_entity_jasmin_alic_creator",
+      "fromNode": "n_claude_creator_research_pipeline",
+      "toNode": "n_entity_jasmin_alic_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_workflow_a_master_linkedin_newsletter_post",
+      "fromNode": "n_claude_workflow_a",
+      "toNode": "n_master_linkedin_newsletter_post",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_workflow_a_handoff_session_context",
+      "fromNode": "n_claude_workflow_a",
+      "toNode": "n_handoff_session_context",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_workflow_a_claude_workflow_f",
+      "fromNode": "n_claude_workflow_a",
+      "toNode": "n_claude_workflow_f",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_workflow_c_master_discovery_call_script",
+      "fromNode": "n_claude_workflow_c",
+      "toNode": "n_master_discovery_call_script",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_workflow_c_master_beta_offer",
+      "fromNode": "n_claude_workflow_c",
+      "toNode": "n_master_beta_offer",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_workflow_d_entity_apify_actor_youtube_scraper",
+      "fromNode": "n_claude_workflow_d",
+      "toNode": "n_entity_apify_actor_youtube_scraper",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_api_rollout_entity_apollo_io",
+      "fromNode": "n_claude_api_rollout",
+      "toNode": "n_entity_apollo_io",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_api_rollout_entity_instantly_ai",
+      "fromNode": "n_claude_api_rollout",
+      "toNode": "n_entity_instantly_ai",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_api_rollout_entity_meta_ad_library",
+      "fromNode": "n_claude_api_rollout",
+      "toNode": "n_entity_meta_ad_library",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_reachr_product_master_beta_offer",
+      "fromNode": "n_master_reachr_product",
+      "toNode": "n_master_beta_offer",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_master_reachr_product_handoff_session_context",
+      "fromNode": "n_master_reachr_product",
+      "toNode": "n_handoff_session_context",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_beta_offer_master_discovery_call_script",
+      "fromNode": "n_master_beta_offer",
+      "toNode": "n_master_discovery_call_script",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_beachhead_beauty_skincare_entity_meta_ad_library",
+      "fromNode": "n_master_beachhead_beauty_skincare",
+      "toNode": "n_entity_meta_ad_library",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_clippers_first_rationale_master_gtm_sequence",
+      "fromNode": "n_master_clippers_first_rationale",
+      "toNode": "n_master_gtm_sequence",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_master_gtm_sequence_master_two_track_gtm",
+      "fromNode": "n_master_gtm_sequence",
+      "toNode": "n_master_two_track_gtm",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_master_two_track_gtm_entity_instantly_ai",
+      "fromNode": "n_master_two_track_gtm",
+      "toNode": "n_entity_instantly_ai",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_two_track_gtm_entity_apollo_io",
+      "fromNode": "n_master_two_track_gtm",
+      "toNode": "n_entity_apollo_io",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_two_track_gtm_master_big_reframe",
+      "fromNode": "n_master_two_track_gtm",
+      "toNode": "n_master_big_reframe",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_master_two_track_gtm_master_content_coordinates_sales",
+      "fromNode": "n_master_two_track_gtm",
+      "toNode": "n_master_content_coordinates_sales",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_master_content_dashboard_master_outreach_pipeline_crm",
+      "fromNode": "n_master_content_dashboard",
+      "toNode": "n_master_outreach_pipeline_crm",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_content_dashboard_entity_supabase",
+      "fromNode": "n_master_content_dashboard",
+      "toNode": "n_entity_supabase",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_content_dashboard_entity_vercel",
+      "fromNode": "n_master_content_dashboard",
+      "toNode": "n_entity_vercel",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_content_dashboard_handoff_completed_work",
+      "fromNode": "n_master_content_dashboard",
+      "toNode": "n_handoff_completed_work",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_automation_stack_entity_supabase",
+      "fromNode": "n_master_automation_stack",
+      "toNode": "n_entity_supabase",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_supabase_tables_entity_supabase",
+      "fromNode": "n_master_supabase_tables",
+      "toNode": "n_entity_supabase",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_master_sales_led_rationale_master_big_reframe",
+      "fromNode": "n_master_sales_led_rationale",
+      "toNode": "n_master_big_reframe",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_master_borrowed_audience_framework_entity_raj_shamani",
+      "fromNode": "n_master_borrowed_audience_framework",
+      "toNode": "n_entity_raj_shamani",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_borrowed_audience_framework_entity_nikhil_kamath",
+      "fromNode": "n_master_borrowed_audience_framework",
+      "toNode": "n_entity_nikhil_kamath",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_borrowed_audience_framework_entity_vaibhav_sisinty_creator",
+      "fromNode": "n_master_borrowed_audience_framework",
+      "toNode": "n_entity_vaibhav_sisinty_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_borrowed_audience_framework_entity_snitch",
+      "fromNode": "n_master_borrowed_audience_framework",
+      "toNode": "n_entity_snitch",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_master_borrowed_audience_framework_entity_mamaearth",
+      "fromNode": "n_master_borrowed_audience_framework",
+      "toNode": "n_entity_mamaearth",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_urls_vaibhav_sisinty_entity_vaibhav_sisinty_creator",
+      "fromNode": "n_creator_urls_vaibhav_sisinty",
+      "toNode": "n_entity_vaibhav_sisinty_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_urls_justin_welsh_entity_justin_welsh_creator",
+      "fromNode": "n_creator_urls_justin_welsh",
+      "toNode": "n_entity_justin_welsh_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_urls_jasmin_alic_entity_jasmin_alic_creator",
+      "fromNode": "n_creator_urls_jasmin_alic",
+      "toNode": "n_entity_jasmin_alic_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_urls_lara_acosta_entity_lara_acosta_creator",
+      "fromNode": "n_creator_urls_lara_acosta",
+      "toNode": "n_entity_lara_acosta_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_urls_kallaway_entity_kallaway_creator",
+      "fromNode": "n_creator_urls_kallaway",
+      "toNode": "n_entity_kallaway_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rawdata_jasmin_interview_urls_entity_jasmin_alic_creator",
+      "fromNode": "n_rawdata_jasmin_interview_urls",
+      "toNode": "n_entity_jasmin_alic_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rawdata_justin_newsletter_urls_entity_justin_welsh_creator",
+      "fromNode": "n_rawdata_justin_newsletter_urls",
+      "toNode": "n_entity_justin_welsh_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rawdata_justin_youtube_top20_entity_justin_welsh_creator",
+      "fromNode": "n_rawdata_justin_youtube_top20",
+      "toNode": "n_entity_justin_welsh_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rawdata_vaibhav_youtube_top50_entity_vaibhav_sisinty_creator",
+      "fromNode": "n_rawdata_vaibhav_youtube_top50",
+      "toNode": "n_entity_vaibhav_sisinty_creator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_sop_document_vaibhav_sisinty_research_document",
+      "fromNode": "n_creator_research_sop_sop_document",
+      "toNode": "n_vaibhav_sisinty_research_document",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_sop_document_justin_welsh_research_document",
+      "fromNode": "n_creator_research_sop_sop_document",
+      "toNode": "n_justin_welsh_research_document",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_sop_document_jasmin_alic_research_document",
+      "fromNode": "n_creator_research_sop_sop_document",
+      "toNode": "n_jasmin_alic_research_document",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step0_preflight_creator_research_sop_step1_data_source_discovery",
+      "fromNode": "n_creator_research_sop_step0_preflight",
+      "toNode": "n_creator_research_sop_step1_data_source_discovery",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step1_data_source_discovery_creator_research_sop_step2_apify_collection",
+      "fromNode": "n_creator_research_sop_step1_data_source_discovery",
+      "toNode": "n_creator_research_sop_step2_apify_collection",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step1_data_source_discovery_creator_research_sop_pause_point_1",
+      "fromNode": "n_creator_research_sop_step1_data_source_discovery",
+      "toNode": "n_creator_research_sop_pause_point_1",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step1_data_source_discovery_creator_research_sop_pause_point_2",
+      "fromNode": "n_creator_research_sop_step1_data_source_discovery",
+      "toNode": "n_creator_research_sop_pause_point_2",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step1_data_source_discovery_creator_research_sop_source_inventory",
+      "fromNode": "n_creator_research_sop_step1_data_source_discovery",
+      "toNode": "n_creator_research_sop_source_inventory",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step2_apify_collection_creator_research_sop_step3_notebooklm_setup",
+      "fromNode": "n_creator_research_sop_step2_apify_collection",
+      "toNode": "n_creator_research_sop_step3_notebooklm_setup",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step3_notebooklm_setup_creator_research_sop_step4_research_questions",
+      "fromNode": "n_creator_research_sop_step3_notebooklm_setup",
+      "toNode": "n_creator_research_sop_step4_research_questions",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step4_research_questions_creator_research_sop_step5_deliverables",
+      "fromNode": "n_creator_research_sop_step4_research_questions",
+      "toNode": "n_creator_research_sop_step5_deliverables",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step5_deliverables_creator_research_sop_step6_save_file",
+      "fromNode": "n_creator_research_sop_step5_deliverables",
+      "toNode": "n_creator_research_sop_step6_save_file",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step5_deliverables_creator_research_sop_d1_hook_formula_bank",
+      "fromNode": "n_creator_research_sop_step5_deliverables",
+      "toNode": "n_creator_research_sop_d1_hook_formula_bank",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step5_deliverables_creator_research_sop_d2_cta_bank",
+      "fromNode": "n_creator_research_sop_step5_deliverables",
+      "toNode": "n_creator_research_sop_d2_cta_bank",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step5_deliverables_creator_research_sop_d3_contrarian_pov_library",
+      "fromNode": "n_creator_research_sop_step5_deliverables",
+      "toNode": "n_creator_research_sop_d3_contrarian_pov_library",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step5_deliverables_creator_research_sop_d4_post_structure_blueprint",
+      "fromNode": "n_creator_research_sop_step5_deliverables",
+      "toNode": "n_creator_research_sop_d4_post_structure_blueprint",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step5_deliverables_creator_research_sop_d5_personal_story_bank",
+      "fromNode": "n_creator_research_sop_step5_deliverables",
+      "toNode": "n_creator_research_sop_d5_personal_story_bank",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step5_deliverables_creator_research_sop_d6_untapped_topic_list",
+      "fromNode": "n_creator_research_sop_step5_deliverables",
+      "toNode": "n_creator_research_sop_d6_untapped_topic_list",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_creator_research_sop_step5_deliverables_creator_research_sop_d7_forbidden_patterns",
+      "fromNode": "n_creator_research_sop_step5_deliverables",
+      "toNode": "n_creator_research_sop_d7_forbidden_patterns",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_raw_data_linkedin",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_raw_data_linkedin",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_hook_high_stakes_financial",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_hook_high_stakes_financial",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_hook_secret_unknown_tool",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_hook_secret_unknown_tool",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_hook_shocking_ai_feat",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_hook_shocking_ai_feat",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_hook_tech_giant_drama",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_hook_tech_giant_drama",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_hook_relatable_pain_cost_saving",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_hook_relatable_pain_cost_saving",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_hook_urgency_while_sleeping",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_hook_urgency_while_sleeping",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_cta_participation",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_cta_participation",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_cta_ps_bombshell",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_cta_ps_bombshell",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_cta_hard_landing",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_cta_hard_landing",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_post_structure_6beat",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_post_structure_6beat",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_contrarian_pov_ai_replaces_knowledge_work",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_contrarian_pov_ai_replaces_knowledge_work",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_access_content_system",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_access_content_system",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_early_stage_tactics",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_early_stage_tactics",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_sisinty_research_document_vaibhav_forbidden_patterns",
+      "fromNode": "n_vaibhav_sisinty_research_document",
+      "toNode": "n_vaibhav_forbidden_patterns",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_cta_hard_landing_justin_cta_hard_landing",
+      "fromNode": "n_vaibhav_cta_hard_landing",
+      "toNode": "n_justin_cta_hard_landing",
+      "label": "semantically_similar_to [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_early_stage_tactics_vaibhav_access_content_system",
+      "fromNode": "n_vaibhav_early_stage_tactics",
+      "toNode": "n_vaibhav_access_content_system",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_raw_data_linkedin_vaibhav_post_pattern_news_breakdown",
+      "fromNode": "n_vaibhav_raw_data_linkedin",
+      "toNode": "n_vaibhav_post_pattern_news_breakdown",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_raw_data_linkedin_vaibhav_post_pattern_tech_explainer",
+      "fromNode": "n_vaibhav_raw_data_linkedin",
+      "toNode": "n_vaibhav_post_pattern_tech_explainer",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_vaibhav_raw_data_linkedin_vaibhav_post_pattern_shock_short",
+      "fromNode": "n_vaibhav_raw_data_linkedin",
+      "toNode": "n_vaibhav_post_pattern_shock_short",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_hook_bizarre_absurd",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_hook_bizarre_absurd",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_hook_paradoxical_confession",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_hook_paradoxical_confession",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_hook_discarded_best_practice",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_hook_discarded_best_practice",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_hook_universal_callout",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_hook_universal_callout",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_cta_personal_painful_truth",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_cta_personal_painful_truth",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_cta_hard_landing",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_cta_hard_landing",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_contrarian_pov_pursuit_of_more",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_contrarian_pov_pursuit_of_more",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_post_structure_newsletter",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_post_structure_newsletter",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_post_structure_video_interview",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_post_structure_video_interview",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_story_burnout_911",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_story_burnout_911",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_forbidden_patterns",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_forbidden_patterns",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_welsh_research_document_justin_divergence_vs_vaibhav",
+      "fromNode": "n_justin_welsh_research_document",
+      "toNode": "n_justin_divergence_vs_vaibhav",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_contrarian_pov_pursuit_of_more_justin_contrarian_anti_scale",
+      "fromNode": "n_justin_contrarian_pov_pursuit_of_more",
+      "toNode": "n_justin_contrarian_anti_scale",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_contrarian_pov_pursuit_of_more_justin_contrarian_viral_useless",
+      "fromNode": "n_justin_contrarian_pov_pursuit_of_more",
+      "toNode": "n_justin_contrarian_viral_useless",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_contrarian_pov_pursuit_of_more_justin_contrarian_no_one_coming",
+      "fromNode": "n_justin_contrarian_pov_pursuit_of_more",
+      "toNode": "n_justin_contrarian_no_one_coming",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_contrarian_anti_scale_justin_story_burnout_911",
+      "fromNode": "n_justin_contrarian_anti_scale",
+      "toNode": "n_justin_story_burnout_911",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_justin_divergence_vs_vaibhav_jasmin_divergence_table_all_three",
+      "fromNode": "n_justin_divergence_vs_vaibhav",
+      "toNode": "n_jasmin_divergence_table_all_three",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_narrator_persona_mad_scientist",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_narrator_persona_mad_scientist",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_hook_opposing_statement",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_hook_opposing_statement",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_hook_kill_the_niche",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_hook_kill_the_niche",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_three_line_rule",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_three_line_rule",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_post_structure_6beat",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_post_structure_6beat",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_contrarian_pov_commenting_over_posting",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_contrarian_pov_commenting_over_posting",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_5step_argument_sequence",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_5step_argument_sequence",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_forbidden_patterns",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_forbidden_patterns",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_divergence_table_all_three",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_divergence_table_all_three",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_immediate_applications",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_immediate_applications",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_cadence_rules",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_cadence_rules",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_emotional_arc_6stage",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_emotional_arc_6stage",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_alic_research_document_jasmin_1_3_1_rhythm",
+      "fromNode": "n_jasmin_alic_research_document",
+      "toNode": "n_jasmin_1_3_1_rhythm",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_hook_opposing_statement_jasmin_three_line_rule",
+      "fromNode": "n_jasmin_hook_opposing_statement",
+      "toNode": "n_jasmin_three_line_rule",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_hook_kill_the_niche_jasmin_template_kill_the_niche",
+      "fromNode": "n_jasmin_hook_kill_the_niche",
+      "toNode": "n_jasmin_template_kill_the_niche",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_three_line_rule_jasmin_post_structure_6beat",
+      "fromNode": "n_jasmin_three_line_rule",
+      "toNode": "n_jasmin_post_structure_6beat",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_contrarian_pov_commenting_over_posting_jasmin_pov_visibility_paradox",
+      "fromNode": "n_jasmin_contrarian_pov_commenting_over_posting",
+      "toNode": "n_jasmin_pov_visibility_paradox",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_contrarian_pov_commenting_over_posting_jasmin_pov_vanity_metric_shift",
+      "fromNode": "n_jasmin_contrarian_pov_commenting_over_posting",
+      "toNode": "n_jasmin_pov_vanity_metric_shift",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_contrarian_pov_commenting_over_posting_jasmin_pov_inbound_sales_illusion",
+      "fromNode": "n_jasmin_contrarian_pov_commenting_over_posting",
+      "toNode": "n_jasmin_pov_inbound_sales_illusion",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_story_quit_twice_jasmin_content_evolution_rehook",
+      "fromNode": "n_jasmin_story_quit_twice",
+      "toNode": "n_jasmin_content_evolution_rehook",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_pov_visibility_paradox_jasmin_template_visibility_paradox",
+      "fromNode": "n_jasmin_pov_visibility_paradox",
+      "toNode": "n_jasmin_template_visibility_paradox",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_jasmin_pov_anti_gatekeeping_jasmin_template_100pct_free_trust",
+      "fromNode": "n_jasmin_pov_anti_gatekeeping",
+      "toNode": "n_jasmin_template_100pct_free_trust",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_workflow_c_entity_apollo_io",
+      "fromNode": "n_claude_workflow_c",
+      "toNode": "n_entity_apollo_io",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_claude_workflow_c_entity_instantly_ai",
+      "fromNode": "n_claude_workflow_c",
+      "toNode": "n_entity_instantly_ai",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d1_hook_formula_bank_vaibhav_hook_high_stakes_financial",
+      "fromNode": "n_creator_research_sop_d1_hook_formula_bank",
+      "toNode": "n_vaibhav_hook_high_stakes_financial",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d1_hook_formula_bank_jasmin_hook_opposing_statement",
+      "fromNode": "n_creator_research_sop_d1_hook_formula_bank",
+      "toNode": "n_jasmin_hook_opposing_statement",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d1_hook_formula_bank_justin_hook_bizarre_absurd",
+      "fromNode": "n_creator_research_sop_d1_hook_formula_bank",
+      "toNode": "n_justin_hook_bizarre_absurd",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d2_cta_bank_vaibhav_cta_participation",
+      "fromNode": "n_creator_research_sop_d2_cta_bank",
+      "toNode": "n_vaibhav_cta_participation",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d2_cta_bank_jasmin_cta_yes_no_binary",
+      "fromNode": "n_creator_research_sop_d2_cta_bank",
+      "toNode": "n_jasmin_cta_yes_no_binary",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d3_contrarian_pov_library_vaibhav_contrarian_pov_ai_replaces_knowledge_work",
+      "fromNode": "n_creator_research_sop_d3_contrarian_pov_library",
+      "toNode": "n_vaibhav_contrarian_pov_ai_replaces_knowledge_work",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d3_contrarian_pov_library_jasmin_contrarian_pov_commenting_over_posting",
+      "fromNode": "n_creator_research_sop_d3_contrarian_pov_library",
+      "toNode": "n_jasmin_contrarian_pov_commenting_over_posting",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d7_forbidden_patterns_vaibhav_forbidden_patterns",
+      "fromNode": "n_creator_research_sop_d7_forbidden_patterns",
+      "toNode": "n_vaibhav_forbidden_patterns",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d7_forbidden_patterns_jasmin_forbidden_patterns",
+      "fromNode": "n_creator_research_sop_d7_forbidden_patterns",
+      "toNode": "n_jasmin_forbidden_patterns",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_d7_forbidden_patterns_justin_forbidden_patterns",
+      "fromNode": "n_creator_research_sop_d7_forbidden_patterns",
+      "toNode": "n_justin_forbidden_patterns",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_vaibhav_cta_ps_bombshell_justin_cta_ps_bombshell",
+      "fromNode": "n_vaibhav_cta_ps_bombshell",
+      "toNode": "n_justin_cta_ps_bombshell",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_claude_zero_comments_problem_claude_rationale_reduce_posting",
+      "fromNode": "n_claude_zero_comments_problem",
+      "toNode": "n_claude_rationale_reduce_posting",
+      "label": "rationale_for [INFERRED]"
+    },
+    {
+      "id": "e_claude_notebooklm_rawdata_justin_newsletter_urls",
+      "fromNode": "n_claude_notebooklm",
+      "toNode": "n_rawdata_justin_newsletter_urls",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_claude_notebooklm_rawdata_justin_youtube_top20",
+      "fromNode": "n_claude_notebooklm",
+      "toNode": "n_rawdata_justin_youtube_top20",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_claude_notebooklm_rawdata_vaibhav_youtube_top50",
+      "fromNode": "n_claude_notebooklm",
+      "toNode": "n_rawdata_vaibhav_youtube_top50",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_vaibhav_cta_participation_justin_cta_personal_painful_truth",
+      "fromNode": "n_vaibhav_cta_participation",
+      "toNode": "n_justin_cta_personal_painful_truth",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_justin_contrarian_viral_useless_jasmin_pov_inbound_sales_illusion",
+      "fromNode": "n_justin_contrarian_viral_useless",
+      "toNode": "n_jasmin_pov_inbound_sales_illusion",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_jasmin_post_structure_6beat_jasmin_emotional_arc_6stage",
+      "fromNode": "n_jasmin_post_structure_6beat",
+      "toNode": "n_jasmin_emotional_arc_6stage",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_master_beta_offer_handoff_pending_actions",
+      "fromNode": "n_master_beta_offer",
+      "toNode": "n_handoff_pending_actions",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_master_beta_offer_master_beachhead_beauty_skincare",
+      "fromNode": "n_master_beta_offer",
+      "toNode": "n_master_beachhead_beauty_skincare",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_master_gtm_sequence_master_connector_list",
+      "fromNode": "n_master_gtm_sequence",
+      "toNode": "n_master_connector_list",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_master_outreach_pipeline_crm_entity_apollo_io",
+      "fromNode": "n_master_outreach_pipeline_crm",
+      "toNode": "n_entity_apollo_io",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_master_outreach_pipeline_crm_entity_instantly_ai",
+      "fromNode": "n_master_outreach_pipeline_crm",
+      "toNode": "n_entity_instantly_ai",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_master_6tension_hook_types_entity_jasmin_alic_creator",
+      "fromNode": "n_master_6tension_hook_types",
+      "toNode": "n_entity_jasmin_alic_creator",
+      "label": "rationale_for [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_question_l8_content_evolution_vaibhav_early_stage_tactics",
+      "fromNode": "n_creator_research_sop_question_l8_content_evolution",
+      "toNode": "n_vaibhav_early_stage_tactics",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_creator_research_sop_question_l8_content_evolution_jasmin_content_evolution_rehook",
+      "fromNode": "n_creator_research_sop_question_l8_content_evolution",
+      "toNode": "n_jasmin_content_evolution_rehook",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_vaibhav_cta_yes_no_opinion_jasmin_cta_yes_no_binary",
+      "fromNode": "n_vaibhav_cta_yes_no_opinion",
+      "toNode": "n_jasmin_cta_yes_no_binary",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_jasmin_cadence_rules_jasmin_forbidden_patterns",
+      "fromNode": "n_jasmin_cadence_rules",
+      "toNode": "n_jasmin_forbidden_patterns",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_master_connector_list_master_whatsapp_channel_strategy",
+      "fromNode": "n_master_connector_list",
+      "toNode": "n_master_whatsapp_channel_strategy",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_rawdata_justin_youtube_top20_rawdata_vaibhav_youtube_top50",
+      "fromNode": "n_rawdata_justin_youtube_top20",
+      "toNode": "n_rawdata_vaibhav_youtube_top50",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_entity_justin_welsh_creator_entity_vaibhav_sisinty_creator",
+      "fromNode": "n_entity_justin_welsh_creator",
+      "toNode": "n_entity_vaibhav_sisinty_creator",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_vaibhav_post_structure_6beat_jasmin_post_structure_6beat",
+      "fromNode": "n_vaibhav_post_structure_6beat",
+      "toNode": "n_jasmin_post_structure_6beat",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_justin_argument_3step_sequence_jasmin_5step_argument_sequence",
+      "fromNode": "n_justin_argument_3step_sequence",
+      "toNode": "n_jasmin_5step_argument_sequence",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_rawdata_jasmin_interview_urls_rawdata_justin_youtube_top20",
+      "fromNode": "n_rawdata_jasmin_interview_urls",
+      "toNode": "n_rawdata_justin_youtube_top20",
+      "label": "semantically_similar_to [INFERRED]"
+    }
+  ]
+}

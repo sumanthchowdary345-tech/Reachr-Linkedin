@@ -1,0 +1,24 @@
+[{
+  "error": "NO_VIDEOS",
+  "note": "Channel is empty",
+  "aboutChannelInfo": {
+    "channelDescription": null,
+    "channelJoinedDate": "May 16, 2011",
+    "channelDescriptionLinks": [],
+    "channelLocation": null,
+    "channelUsername": "JustinWelsh",
+    "channelAvatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_lfhTC2gj5_FbxMMr6dFuu6Qlggx3N4qGKbRRcgfYstgswX=s160-c-k-c0x00ffffff-no-rj",
+    "channelBannerUrl": null,
+    "channelTotalVideos": null,
+    "channelTotalViews": null,
+    "numberOfSubscribers": 100,
+    "isChannelVerified": false,
+    "channelName": "Justin Welsh",
+    "channelUrl": "https://www.youtube.com/channel/UCoAnsP_Mm8YDjwSo_MigD8Q",
+    "channelId": "UCoAnsP_Mm8YDjwSo_MigD8Q",
+    "inputChannelUrl": "https://www.youtube.com/@JustinWelsh",
+    "isAgeRestricted": false
+  },
+  "url": "https://www.youtube.com/@JustinWelsh/about",
+  "input": "https://www.youtube.com/@JustinWelsh"
+}]
